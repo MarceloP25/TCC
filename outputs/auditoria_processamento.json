@@ -1,24 +1,36 @@
 {
-  "timestamp": "2026-04-07T11:39:14.070367-03:00",
+  "timestamp": "2026-04-23T22:09:31.154196-03:00",
   "modo_rigoroso": false,
   "pasta_dfp": "TCC_dados\\DFP",
   "pasta_itr": "TCC_dados\\ITR",
   "zips_processados": [
+    "dfp_cia_aberta_2015.zip",
+    "dfp_cia_aberta_2016.zip",
+    "dfp_cia_aberta_2017.zip",
+    "dfp_cia_aberta_2018.zip",
+    "dfp_cia_aberta_2019.zip",
+    "dfp_cia_aberta_2020.zip",
     "dfp_cia_aberta_2021.zip",
     "dfp_cia_aberta_2022.zip",
     "dfp_cia_aberta_2023.zip",
     "dfp_cia_aberta_2024.zip",
     "dfp_cia_aberta_2025.zip",
+    "itr_cia_aberta_2015.zip",
+    "itr_cia_aberta_2016.zip",
+    "itr_cia_aberta_2017.zip",
+    "itr_cia_aberta_2018.zip",
+    "itr_cia_aberta_2019.zip",
+    "itr_cia_aberta_2020.zip",
     "itr_cia_aberta_2021.zip",
     "itr_cia_aberta_2022.zip",
     "itr_cia_aberta_2023.zip",
     "itr_cia_aberta_2024.zip",
     "itr_cia_aberta_2025.zip"
   ],
-  "linhas_lidas_total": 9965142,
-  "linhas_filtradas_anchor": 571580,
-  "registros_descartados": 9393562,
-  "duplicatas_removidas": 272722,
+  "linhas_lidas_total": 19052890,
+  "linhas_filtradas_anchor": 1162646,
+  "registros_descartados": 17890244,
+  "duplicatas_removidas": 553392,
   "erros_data_total": 0,
   "datas_futuras_removidas": 0,
   "inconsistencias_ano": 35,
@@ -26,11 +38,17 @@
   "alertas_merge_outer": 0,
   "erros_data_amostra": [],
   "dataset_shape": [
-    471,
-    736
+    983,
+    771
   ],
   "dataset_empresas": 25,
   "dataset_anos": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
     2021,
     2022,
     2023,
@@ -38,8 +56,8 @@
     2025
   ],
   "dataset_origens": {
-    "ITR": 372,
-    "DFP": 99
+    "ITR": 753,
+    "DFP": 230
   },
   "kpis_cobertura": {
     "margem_bruta": 1.0,
@@ -58,8 +76,8 @@
     "fco_receita": 1.0,
     "fco_lucro": 1.0,
     "EBITDA": 1.0,
-    "FCF": 0.9554,
-    "margem_fcf": 0.9554,
+    "FCF": 0.941,
+    "margem_fcf": 0.941,
     "conversao_caixa": 1.0
   }
 }
