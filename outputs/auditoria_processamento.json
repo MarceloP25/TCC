@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-23T22:09:31.154196-03:00",
+  "timestamp": "2026-05-04T10:00:32.127664-03:00",
   "modo_rigoroso": false,
   "pasta_dfp": "TCC_dados\\DFP",
   "pasta_itr": "TCC_dados\\ITR",
@@ -25,12 +25,13 @@
     "itr_cia_aberta_2022.zip",
     "itr_cia_aberta_2023.zip",
     "itr_cia_aberta_2024.zip",
-    "itr_cia_aberta_2025.zip"
+    "itr_cia_aberta_2025.zip",
+    "itr_cia_aberta_2026.zip"
   ],
-  "linhas_lidas_total": 19052890,
-  "linhas_filtradas_anchor": 1162646,
-  "registros_descartados": 17890244,
-  "duplicatas_removidas": 553392,
+  "linhas_lidas_total": 19071968,
+  "linhas_filtradas_anchor": 1167332,
+  "registros_descartados": 17904636,
+  "duplicatas_removidas": 555128,
   "erros_data_total": 0,
   "datas_futuras_removidas": 0,
   "inconsistencias_ano": 35,
@@ -38,8 +39,8 @@
   "alertas_merge_outer": 0,
   "erros_data_amostra": [],
   "dataset_shape": [
-    983,
-    771
+    987,
+    772
   ],
   "dataset_empresas": 25,
   "dataset_anos": [
@@ -53,10 +54,11 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dataset_origens": {
-    "ITR": 753,
+    "ITR": 757,
     "DFP": 230
   },
   "kpis_cobertura": {
@@ -76,8 +78,8 @@
     "fco_receita": 1.0,
     "fco_lucro": 1.0,
     "EBITDA": 1.0,
-    "FCF": 0.941,
-    "margem_fcf": 0.941,
+    "FCF": 0.9412,
+    "margem_fcf": 0.9412,
     "conversao_caixa": 1.0
   }
 }

@@ -1,0 +1,144 @@
+{
+  "n_obs": 881,
+  "n_empresas": 25,
+  "n_features": 15,
+  "n_targets": 9,
+  "anos": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "origens": {
+    "ITR": 676,
+    "DFP": 205
+  },
+  "setores": {
+    "Energia": 195,
+    "Commodities": 195,
+    "Varejo": 173,
+    "Petróleo": 169,
+    "Tecnologia": 149
+  },
+  "macro_cobertura": {
+    "macro_selic": 1.0,
+    "macro_ipca": 1.0,
+    "macro_cambio": 1.0,
+    "macro_pib_tri": 1.0,
+    "macro_vol_brasil": 1.0,
+    "retorno_12m": 0.7230419977298524,
+    "volatilidade_60d": 0.8104426787741204
+  },
+  "kpi_cobertura": {
+    "margem_bruta": 1.0,
+    "margem_ebit": 1.0,
+    "margem_liquida": 1.0,
+    "margem_ebitda": 1.0,
+    "roe": 1.0,
+    "roa": 1.0,
+    "liquidez_corrente": 1.0,
+    "liquidez_imediata": 1.0,
+    "endividamento": 1.0,
+    "alavancagem_de": 1.0,
+    "div_liquida": 1.0,
+    "cobertura_juros": 1.0,
+    "giro_ativo": 1.0,
+    "fco_receita": 1.0,
+    "fco_lucro": 1.0,
+    "EBITDA": 1.0,
+    "FCF": 1.0,
+    "margem_fcf": 1.0,
+    "conversao_caixa": 1.0
+  },
+  "target_stats": {
+    "TARGET_DRE_3.01": {
+      "n": 881,
+      "mean": 51031632.69466516,
+      "std": 94292002.96624102,
+      "skew": 3.25820243545294,
+      "min": 253071.0,
+      "max": 641256000.0
+    },
+    "TARGET_DRE_3.11": {
+      "n": 881,
+      "mean": 5290724.895573212,
+      "std": 20700166.929467157,
+      "skew": 5.799540193068663,
+      "min": -45996622.0,
+      "max": 189005000.0
+    },
+    "TARGET_EBITDA": {
+      "n": 881,
+      "mean": 26074643.39074915,
+      "std": 41283662.28935044,
+      "skew": 2.3379000961569334,
+      "min": 307882.0,
+      "max": 164898977.0
+    },
+    "TARGET_BPA_1": {
+      "n": 881,
+      "mean": 88877979.46992055,
+      "std": 203917562.02655196,
+      "skew": 3.5732673740521967,
+      "min": 853948.0,
+      "max": 1124797000.0
+    },
+    "TARGET_BPA_1.01": {
+      "n": 881,
+      "mean": 20743203.95459705,
+      "std": 33582165.110038444,
+      "skew": 2.961516756442012,
+      "min": 658203.0,
+      "max": 169581000.0
+    },
+    "TARGET_BPP_2.01": {
+      "n": 881,
+      "mean": 14525252.148694664,
+      "std": 29231838.351752583,
+      "skew": 3.6913003796106016,
+      "min": 79620.0,
+      "max": 194808000.0
+    },
+    "TARGET_BPP_2.03": {
+      "n": 881,
+      "mean": 31112216.943246312,
+      "std": 72245446.36326523,
+      "skew": 3.430948949476152,
+      "min": 506375.0,
+      "max": 389581000.0
+    },
+    "TARGET_BPP_2": {
+      "n": 881,
+      "mean": 88877979.46992055,
+      "std": 203917562.02655196,
+      "skew": 3.5732673740521967,
+      "min": 853948.0,
+      "max": 1124797000.0
+    },
+    "TARGET_DFC_MI_6.01": {
+      "n": 881,
+      "mean": 11923051.451759364,
+      "std": 35210224.88237233,
+      "skew": 4.637711162394696,
+      "min": -4364476.0,
+      "max": 255410000.0
+    }
+  },
+  "figuras": [
+    "b1_composicao_dataset.png",
+    "b2_distribuicao_targets.png",
+    "b3_evolucao_kpis_setor.png",
+    "b4_correlacao_features.png",
+    "b5_missingness.png",
+    "b6_cobertura_macro.png",
+    "b7_outliers_kpi_setor.png",
+    "b8_cobertura_empresa_ano.png",
+    "b9_descritivas_consolidadas.png"
+  ]
+}
