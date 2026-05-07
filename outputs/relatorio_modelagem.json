@@ -1,0 +1,158 @@
+{
+  "versao": "V5_9targets_split_temporal",
+  "ano_corte": 2022,
+  "n_treino": 713,
+  "n_teste": 168,
+  "algoritmos": [
+    "Ridge",
+    "SVR",
+    "RandomForest",
+    "GradientBoosting"
+  ],
+  "targets": [
+    "TARGET_DRE_3.01",
+    "TARGET_DRE_3.11",
+    "TARGET_EBITDA",
+    "TARGET_BPA_1",
+    "TARGET_BPA_1.01",
+    "TARGET_BPP_2.01",
+    "TARGET_BPP_2.03",
+    "TARGET_BPP_2",
+    "TARGET_DFC_MI_6.01"
+  ],
+  "log_targets": [
+    "TARGET_BPP_2.03",
+    "TARGET_BPP_2",
+    "TARGET_DRE_3.01",
+    "TARGET_BPP_2.01",
+    "TARGET_EBITDA",
+    "TARGET_BPA_1",
+    "TARGET_BPA_1.01"
+  ],
+  "arcsinh_targets": [
+    "TARGET_DFC_MI_6.01",
+    "TARGET_DRE_3.11"
+  ],
+  "target_transforms": {
+    "TARGET_DRE_3.01": "log1p",
+    "TARGET_DRE_3.11": "arcsinh",
+    "TARGET_EBITDA": "log1p",
+    "TARGET_BPA_1": "log1p",
+    "TARGET_BPA_1.01": "log1p",
+    "TARGET_BPP_2.01": "log1p",
+    "TARGET_BPP_2.03": "log1p",
+    "TARGET_BPP_2": "log1p",
+    "TARGET_DFC_MI_6.01": "arcsinh"
+  },
+  "features": [
+    "TARGET_DRE_3.01_lag1",
+    "TARGET_DRE_3.01_roll2_mean",
+    "TARGET_DRE_3.01_roll4_mean",
+    "TARGET_BPP_2.01_lag1",
+    "TARGET_BPP_2.01_lag2",
+    "TARGET_DFC_MI_6.01_lag1",
+    "TARGET_BPA_1.01_lag2",
+    "TARGET_BPP_2.03_lag2",
+    "TARGET_BPA_1.01_lag1",
+    "TARGET_BPA_1_lag1",
+    "TARGET_BPP_2_lag1",
+    "TARGET_DRE_3.11_lag1",
+    "TARGET_DRE_3.11_roll4_mean",
+    "TARGET_DRE_3.11_lag2",
+    "TARGET_DRE_3.01_diff1"
+  ],
+  "melhores": {
+    "TARGET_DRE_3.01": "GradientBoosting",
+    "TARGET_DRE_3.11": "RandomForest",
+    "TARGET_EBITDA": "GradientBoosting",
+    "TARGET_BPA_1": "GradientBoosting",
+    "TARGET_BPA_1.01": "GradientBoosting",
+    "TARGET_BPP_2.01": "GradientBoosting",
+    "TARGET_BPP_2.03": "GradientBoosting",
+    "TARGET_BPP_2": "GradientBoosting",
+    "TARGET_DFC_MI_6.01": "RandomForest"
+  },
+  "baselines": {
+    "TARGET_DRE_3.01": {
+      "RMSE_baseline": 22487246.234924704,
+      "MAE_baseline": 9304217.118055556,
+      "SMAPE_baseline": 0.1760572483150269,
+      "R2_baseline": 0.9593945900331536,
+      "TheilU_baseline": 1.0,
+      "DA_baseline": 0.5966386554621849,
+      "Cobertura_baseline": 0.8571428571428571
+    },
+    "TARGET_DRE_3.11": {
+      "RMSE_baseline": 21816677.056469426,
+      "MAE_baseline": 7338739.395833333,
+      "SMAPE_baseline": 0.7117828831355735,
+      "R2_baseline": -0.6893233727724934,
+      "TheilU_baseline": 1.0,
+      "DA_baseline": 0.7478991596638656,
+      "Cobertura_baseline": 0.8571428571428571
+    },
+    "TARGET_EBITDA": {
+      "RMSE_baseline": 6991551.464912243,
+      "MAE_baseline": 3840314.03125,
+      "SMAPE_baseline": 0.21540795281260097,
+      "R2_baseline": 0.8073645102265056,
+      "TheilU_baseline": 1.0,
+      "DA_baseline": 0.6428571428571429,
+      "Cobertura_baseline": 0.8571428571428571
+    },
+    "TARGET_BPA_1": {
+      "RMSE_baseline": 23200605.41212455,
+      "MAE_baseline": 12422051.597222222,
+      "SMAPE_baseline": 0.17667617543989328,
+      "R2_baseline": 0.9895549858050353,
+      "TheilU_baseline": 1.0,
+      "DA_baseline": 0.8907563025210085,
+      "Cobertura_baseline": 0.8571428571428571
+    },
+    "TARGET_BPA_1.01": {
+      "RMSE_baseline": 5357315.495200311,
+      "MAE_baseline": 3356922.6805555555,
+      "SMAPE_baseline": 0.18697501907231162,
+      "R2_baseline": 0.9710943746834958,
+      "TheilU_baseline": 1.0,
+      "DA_baseline": 0.6134453781512605,
+      "Cobertura_baseline": 0.8571428571428571
+    },
+    "TARGET_BPP_2.01": {
+      "RMSE_baseline": 6304194.415609704,
+      "MAE_baseline": 3080545.375,
+      "SMAPE_baseline": 0.25460465720921555,
+      "R2_baseline": 0.9728698737487969,
+      "TheilU_baseline": 1.0,
+      "DA_baseline": 0.6638655462184874,
+      "Cobertura_baseline": 0.8571428571428571
+    },
+    "TARGET_BPP_2.03": {
+      "RMSE_baseline": 6531550.021679519,
+      "MAE_baseline": 4457278.590277778,
+      "SMAPE_baseline": 0.22105864613971646,
+      "R2_baseline": 0.9933936331905944,
+      "TheilU_baseline": 1.0,
+      "DA_baseline": 0.7478991596638656,
+      "Cobertura_baseline": 0.8571428571428571
+    },
+    "TARGET_BPP_2": {
+      "RMSE_baseline": 23200605.41212455,
+      "MAE_baseline": 12422051.597222222,
+      "SMAPE_baseline": 0.17667617543989328,
+      "R2_baseline": 0.9895549858050353,
+      "TheilU_baseline": 1.0,
+      "DA_baseline": 0.8907563025210085,
+      "Cobertura_baseline": 0.8571428571428571
+    },
+    "TARGET_DFC_MI_6.01": {
+      "RMSE_baseline": 8086660.415324708,
+      "MAE_baseline": 3701527.4375,
+      "SMAPE_baseline": 0.5355528700214657,
+      "R2_baseline": 0.9622190919973974,
+      "TheilU_baseline": 1.0,
+      "DA_baseline": 0.5126050420168067,
+      "Cobertura_baseline": 0.8571428571428571
+    }
+  }
+}
