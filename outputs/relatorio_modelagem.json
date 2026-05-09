@@ -1,8 +1,10 @@
 {
-  "versao": "V5_9targets_split_temporal",
+  "versao": "V6_WalkForward_SMAPE",
   "ano_corte": 2022,
   "n_treino": 713,
   "n_teste": 168,
+  "n_splits_wf": 5,
+  "scoring_cv": "SMAPE (proporcional ao tamanho da empresa)",
   "algoritmos": [
     "Ridge",
     "SVR",
@@ -21,17 +23,17 @@
     "TARGET_DFC_MI_6.01"
   ],
   "log_targets": [
-    "TARGET_BPP_2.03",
+    "TARGET_BPA_1.01",
     "TARGET_BPP_2",
     "TARGET_DRE_3.01",
-    "TARGET_BPP_2.01",
     "TARGET_EBITDA",
-    "TARGET_BPA_1",
-    "TARGET_BPA_1.01"
+    "TARGET_BPP_2.03",
+    "TARGET_BPP_2.01",
+    "TARGET_BPA_1"
   ],
   "arcsinh_targets": [
-    "TARGET_DFC_MI_6.01",
-    "TARGET_DRE_3.11"
+    "TARGET_DRE_3.11",
+    "TARGET_DFC_MI_6.01"
   ],
   "target_transforms": {
     "TARGET_DRE_3.01": "log1p",
@@ -59,18 +61,24 @@
     "TARGET_DRE_3.11_lag1",
     "TARGET_DRE_3.11_roll4_mean",
     "TARGET_DRE_3.11_lag2",
-    "TARGET_DRE_3.01_diff1"
+    "TARGET_DRE_3.01_diff1",
+    "flag_covid"
+  ],
+  "n_features_lag": 15,
+  "anos_covid": [
+    2020,
+    2021
   ],
   "melhores": {
     "TARGET_DRE_3.01": "GradientBoosting",
-    "TARGET_DRE_3.11": "RandomForest",
+    "TARGET_DRE_3.11": "GradientBoosting",
     "TARGET_EBITDA": "GradientBoosting",
     "TARGET_BPA_1": "GradientBoosting",
     "TARGET_BPA_1.01": "GradientBoosting",
     "TARGET_BPP_2.01": "GradientBoosting",
     "TARGET_BPP_2.03": "GradientBoosting",
     "TARGET_BPP_2": "GradientBoosting",
-    "TARGET_DFC_MI_6.01": "RandomForest"
+    "TARGET_DFC_MI_6.01": "GradientBoosting"
   },
   "baselines": {
     "TARGET_DRE_3.01": {
@@ -154,5 +162,12 @@
       "DA_baseline": 0.5126050420168067,
       "Cobertura_baseline": 0.8571428571428571
     }
+  },
+  "metodologia": {
+    "cv_strategy": "Walk-Forward (expanding window) por ano",
+    "scoring_otimizacao": "SMAPE — elimina viés de escala entre empresas",
+    "selecao_melhor_modelo": "SMAPE_CV (sem consultar conjunto de teste)",
+    "flag_covid": "Anos 2020–2021 sinalizados explicitamente",
+    "residuos": "Estratificados por setor + detector de funil"
   }
 }
