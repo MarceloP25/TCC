@@ -1,0 +1,204 @@
+{
+  "versao": "V4_AvaliacaoAprofundada",
+  "data_execucao": "2026-05-18 21:46:01",
+  "n_targets": 36,
+  "n_treino": 813,
+  "n_teste": 149,
+  "melhores_modelos": {
+    "TARGET_DRE_3.01_ITR_T1": "GradientBoosting",
+    "TARGET_DRE_3.01_ITR_T2": "GradientBoosting",
+    "TARGET_DRE_3.01_ITR_T3": "GradientBoosting",
+    "TARGET_DRE_3.01_DFP": "GradientBoosting",
+    "TARGET_DRE_3.11_ITR_T1": "GradientBoosting",
+    "TARGET_DRE_3.11_ITR_T2": "GradientBoosting",
+    "TARGET_DRE_3.11_ITR_T3": "GradientBoosting",
+    "TARGET_DRE_3.11_DFP": "GradientBoosting",
+    "TARGET_EBITDA_ITR_T1": "GradientBoosting",
+    "TARGET_EBITDA_ITR_T2": "GradientBoosting",
+    "TARGET_EBITDA_ITR_T3": "GradientBoosting",
+    "TARGET_EBITDA_DFP": "GradientBoosting",
+    "TARGET_BPA_1_ITR_T1": "RandomForest",
+    "TARGET_BPA_1_ITR_T2": "GradientBoosting",
+    "TARGET_BPA_1_ITR_T3": "GradientBoosting",
+    "TARGET_BPA_1_DFP": "GradientBoosting",
+    "TARGET_BPA_1.01_ITR_T1": "GradientBoosting",
+    "TARGET_BPA_1.01_ITR_T2": "RandomForest",
+    "TARGET_BPA_1.01_ITR_T3": "GradientBoosting",
+    "TARGET_BPA_1.01_DFP": "GradientBoosting",
+    "TARGET_BPP_2.01_ITR_T1": "RandomForest",
+    "TARGET_BPP_2.01_ITR_T2": "RandomForest",
+    "TARGET_BPP_2.01_ITR_T3": "GradientBoosting",
+    "TARGET_BPP_2.01_DFP": "GradientBoosting",
+    "TARGET_BPP_2.03_ITR_T1": "GradientBoosting",
+    "TARGET_BPP_2.03_ITR_T2": "GradientBoosting",
+    "TARGET_BPP_2.03_ITR_T3": "GradientBoosting",
+    "TARGET_BPP_2.03_DFP": "GradientBoosting",
+    "TARGET_BPP_2_ITR_T1": "RandomForest",
+    "TARGET_BPP_2_ITR_T2": "GradientBoosting",
+    "TARGET_BPP_2_ITR_T3": "GradientBoosting",
+    "TARGET_BPP_2_DFP": "GradientBoosting",
+    "TARGET_DFC_MI_6.01_ITR_T1": "GradientBoosting",
+    "TARGET_DFC_MI_6.01_ITR_T2": "GradientBoosting",
+    "TARGET_DFC_MI_6.01_ITR_T3": "GradientBoosting",
+    "TARGET_DFC_MI_6.01_DFP": "GradientBoosting"
+  },
+  "contagem_vitorias": {
+    "GradientBoosting": 31,
+    "RandomForest": 5
+  },
+  "zscore_altman": {
+    "formula": "Z'' = 6.56·X1 + 3.26·X2 + 6.72·X3 + 1.05·X4",
+    "limiar_segura": 2.6,
+    "limiar_cinza": 1.1,
+    "obs_validas": 987,
+    "zonas": {
+      "Segura": 987
+    }
+  },
+  "score_risco": {
+    "n_kpis": 8,
+    "kpis": [
+      "liquidez_corrente",
+      "liquidez_imediata",
+      "margem_liquida",
+      "roe",
+      "endividamento",
+      "alavancagem_de",
+      "cobertura_juros",
+      "margem_ebitda"
+    ],
+    "classes": {
+      "Baixo": 790,
+      "Elevado": 104,
+      "Moderado": 71,
+      "Crítico": 22
+    }
+  },
+  "estresse_mc": {
+    "n_sim": 500,
+    "sigma": 0.15,
+    "combinacoes": 0
+  },
+  "feature_importance": {
+    "n_features": 261,
+    "top10": [
+      "TARGET_BPP_2_ITR_T3_lag1",
+      "TARGET_BPA_1.01_ITR_T3_lag1",
+      "TARGET_BPP_2.03_ITR_T3_lag1",
+      "TARGET_BPP_2_ITR_T2_lag2",
+      "TARGET_BPP_2_ITR_T3_lag2",
+      "TARGET_DRE_3.01_ITR_T3_lag1",
+      "TARGET_BPA_1.01_ITR_T1_lag1",
+      "TARGET_BPP_2.01_ITR_T2_lag1",
+      "TARGET_BPA_1.01_ITR_T2_lag1",
+      "TARGET_BPP_2.01_ITR_T2_lag2"
+    ],
+    "familias": {
+      "KPI base": 1.0043211572273496,
+      "Lag/Roll": 30.58703515083424,
+      "Macro": 0.35415325616826265,
+      "Outro": 1.9398019240535789,
+      "Setor dummy": 1.8241273883025864,
+      "Temporal": 0.0722782409419869,
+      "YoY": 0.21828288247199668
+    }
+  },
+  "metricas_foco_tcc": {
+    "TARGET_DRE_3.01_ITR_T1": {
+      "algoritmo": "GradientBoosting",
+      "SMAPE": 0.09953125109602512,
+      "RMSE": 1543793.5487784923,
+      "R2": 0.9366432470895503,
+      "TheilU": 0.1667012702251328,
+      "DA": 0.8
+    },
+    "TARGET_DRE_3.01_ITR_T2": {
+      "algoritmo": "GradientBoosting",
+      "SMAPE": 0.10868551975496388,
+      "RMSE": 2460724.5051961704,
+      "R2": 0.8430911154910569,
+      "TheilU": 0.22323817951695965,
+      "DA": 0.75
+    },
+    "TARGET_DRE_3.01_ITR_T3": {
+      "algoritmo": "GradientBoosting",
+      "SMAPE": 0.1197569741989678,
+      "RMSE": 1853770.0084583266,
+      "R2": 0.8928715495242239,
+      "TheilU": 0.29049553256819793,
+      "DA": 0.6666666666666666
+    },
+    "TARGET_DRE_3.01_DFP": {
+      "algoritmo": "GradientBoosting",
+      "SMAPE": 0.08947969596255252,
+      "RMSE": 2347635.9631837658,
+      "R2": NaN,
+      "TheilU": NaN,
+      "DA": 0.0
+    },
+    "TARGET_DRE_3.11_ITR_T1": {
+      "algoritmo": "GradientBoosting",
+      "SMAPE": 0.40410748600327395,
+      "RMSE": 314521.2593662957,
+      "R2": 0.4832659449467488,
+      "TheilU": 0.5404714290677497,
+      "DA": 0.8
+    },
+    "TARGET_DRE_3.11_ITR_T2": {
+      "algoritmo": "GradientBoosting",
+      "SMAPE": 0.6836057668636888,
+      "RMSE": 761406.6258011925,
+      "R2": -0.7262099988233062,
+      "TheilU": 0.8024592622044804,
+      "DA": 0.55
+    },
+    "TARGET_DRE_3.11_ITR_T3": {
+      "algoritmo": "GradientBoosting",
+      "SMAPE": 0.6384558480338098,
+      "RMSE": 520168.2024110692,
+      "R2": -0.5590788787390658,
+      "TheilU": 1.184228839654255,
+      "DA": 0.3333333333333333
+    },
+    "TARGET_DRE_3.11_DFP": {
+      "algoritmo": "GradientBoosting",
+      "SMAPE": 0.2997126492349569,
+      "RMSE": 761546.1462283218,
+      "R2": NaN,
+      "TheilU": NaN,
+      "DA": 0.0
+    },
+    "TARGET_EBITDA_ITR_T1": {
+      "algoritmo": "GradientBoosting",
+      "SMAPE": 0.2482129230570136,
+      "RMSE": 4459911.229568007,
+      "R2": 0.25557956082901756,
+      "TheilU": 0.6748425184633258,
+      "DA": 0.6
+    },
+    "TARGET_EBITDA_ITR_T2": {
+      "algoritmo": "GradientBoosting",
+      "SMAPE": 0.14036253068443375,
+      "RMSE": 1142246.240453878,
+      "R2": 0.7342871787011703,
+      "TheilU": 0.3435075444441571,
+      "DA": 0.75
+    },
+    "TARGET_EBITDA_ITR_T3": {
+      "algoritmo": "GradientBoosting",
+      "SMAPE": 0.09635189919952702,
+      "RMSE": 1057268.64823691,
+      "R2": 0.9008016414875128,
+      "TheilU": 0.29670962033951725,
+      "DA": 0.6666666666666666
+    },
+    "TARGET_EBITDA_DFP": {
+      "algoritmo": "GradientBoosting",
+      "SMAPE": 0.10262515458084338,
+      "RMSE": 1253271.142951985,
+      "R2": NaN,
+      "TheilU": NaN,
+      "DA": 0.0
+    }
+  }
+}
