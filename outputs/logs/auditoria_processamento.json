@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-05T19:12:28.050698-03:00",
+  "timestamp": "2026-05-21T13:53:40.575347-03:00",
   "modo_rigoroso": false,
   "pasta_dfp": "TCC_dados\\DFP",
   "pasta_itr": "TCC_dados\\ITR",
@@ -28,10 +28,10 @@
     "itr_cia_aberta_2025.zip",
     "itr_cia_aberta_2026.zip"
   ],
-  "linhas_lidas_total": 19071968,
-  "linhas_filtradas_anchor": 1167332,
-  "registros_descartados": 17904636,
-  "duplicatas_removidas": 555128,
+  "linhas_lidas_total": 20033956,
+  "linhas_filtradas_anchor": 1220748,
+  "registros_descartados": 18813208,
+  "duplicatas_removidas": 575736,
   "erros_data_total": 0,
   "datas_futuras_removidas": 0,
   "inconsistencias_ano": 35,
@@ -39,8 +39,8 @@
   "alertas_merge_outer": 0,
   "erros_data_amostra": [],
   "dataset_shape": [
-    987,
-    772
+    1031,
+    775
   ],
   "dataset_empresas": 25,
   "dataset_anos": [
@@ -58,8 +58,8 @@
     2026
   ],
   "dataset_origens": {
-    "ITR": 757,
-    "DFP": 230
+    "ITR": 777,
+    "DFP": 254
   },
   "kpis_cobertura": {
     "margem_bruta": 1.0,
@@ -78,8 +78,8 @@
     "fco_receita": 1.0,
     "fco_lucro": 1.0,
     "EBITDA": 1.0,
-    "FCF": 0.9412,
-    "margem_fcf": 0.9412,
+    "FCF": 0.9418,
+    "margem_fcf": 0.9418,
     "conversao_caixa": 1.0
   }
 }
