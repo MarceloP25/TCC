@@ -384,6 +384,16 @@
     }
   },
   "figuras": [
+    "b10_longitudinal_kpis_Commodities.png",
+    "b10_longitudinal_kpis_Energia.png",
+    "b10_longitudinal_kpis_Petróleo.png",
+    "b10_longitudinal_kpis_Tecnologia.png",
+    "b10_longitudinal_kpis_Varejo.png",
+    "b10_longitudinal_targets_Commodities.png",
+    "b10_longitudinal_targets_Energia.png",
+    "b10_longitudinal_targets_Petróleo.png",
+    "b10_longitudinal_targets_Tecnologia.png",
+    "b10_longitudinal_targets_Varejo.png",
     "b1_composicao_dataset.png",
     "b2_distribuicao_targets.png",
     "b3_evolucao_kpis_setor.png",
