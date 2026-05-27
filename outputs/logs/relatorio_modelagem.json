@@ -1,6 +1,6 @@
 {
   "versao": "V3_CompanyAware_WF_SMAPE",
-  "data_execucao": "2026-05-27 15:20:11",
+  "data_execucao": "2026-05-27 17:42:35",
   "ano_corte": 2023,
   "n_treino": 813,
   "n_teste": 193,
@@ -111,109 +111,109 @@
   "results": {
     "TARGET_DRE_3.01_ITR_T1": {
       "Ridge": {
-        "cv_smape_macro_empresa": 0.4064082489540631,
-        "test_smape_macro_empresa": 0.3676802251627683,
-        "test_theilu_macro_empresa": 0.6232768223710733
+        "cv_smape_macro_empresa": 0.4064083387161735,
+        "test_smape_macro_empresa": 0.3676800410778514,
+        "test_theilu_macro_empresa": 0.6232770362520264
       },
       "SVR": {
-        "cv_smape_macro_empresa": 0.9533589978546032,
+        "cv_smape_macro_empresa": 0.9533589978546365,
         "test_smape_macro_empresa": 1.0,
-        "test_theilu_macro_empresa": 1.336942587216108
+        "test_theilu_macro_empresa": 1.3369425872161103
       },
       "RandomForest": {
-        "cv_smape_macro_empresa": 0.25739629638791717,
-        "test_smape_macro_empresa": 0.1878173679701205,
-        "test_theilu_macro_empresa": 0.3204451868580934
+        "cv_smape_macro_empresa": 0.25739629638791817,
+        "test_smape_macro_empresa": 0.18781736797012027,
+        "test_theilu_macro_empresa": 0.32044518685810425
       },
       "GradientBoosting": {
-        "cv_smape_macro_empresa": 0.1597515407903691,
+        "cv_smape_macro_empresa": 0.16499092482274438,
         "test_smape_macro_empresa": 0.11093996965177258,
         "test_theilu_macro_empresa": 0.15190630338708508
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.20857391858914315,
-        "test_smape_macro_empresa": 0.1330871588892374,
-        "test_theilu_macro_empresa": 0.2353170599505681
+        "cv_smape_macro_empresa": 0.21119361060533126,
+        "test_smape_macro_empresa": 0.13308715888923783,
+        "test_theilu_macro_empresa": 0.23531705995056695
       }
     },
     "TARGET_DRE_3.01_ITR_T2": {
       "Ridge": {
-        "cv_smape_macro_empresa": 0.3920056049814942,
-        "test_smape_macro_empresa": 0.3530859393541066,
-        "test_theilu_macro_empresa": 0.5951165328242647
+        "cv_smape_macro_empresa": 0.3920058047855304,
+        "test_smape_macro_empresa": 0.35308591740436485,
+        "test_theilu_macro_empresa": 0.5951171582533765
       },
       "SVR": {
-        "cv_smape_macro_empresa": 0.9329881002373029,
+        "cv_smape_macro_empresa": 0.9329881002372972,
         "test_smape_macro_empresa": 1.0,
-        "test_theilu_macro_empresa": 1.1573313387075472
+        "test_theilu_macro_empresa": 1.1573313387075634
       },
       "RandomForest": {
-        "cv_smape_macro_empresa": 0.1964582568555009,
-        "test_smape_macro_empresa": 0.13598314335535416,
-        "test_theilu_macro_empresa": 0.19863796885411888
+        "cv_smape_macro_empresa": 0.19645825685549959,
+        "test_smape_macro_empresa": 0.13598314335535241,
+        "test_theilu_macro_empresa": 0.1986379688541188
       },
       "GradientBoosting": {
-        "cv_smape_macro_empresa": 0.15008370980786723,
+        "cv_smape_macro_empresa": 0.14987780690895094,
         "test_smape_macro_empresa": 0.09982246133894722,
         "test_theilu_macro_empresa": 0.1794177035001261
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.17327098333168406,
-        "test_smape_macro_empresa": 0.11260784505448869,
-        "test_theilu_macro_empresa": 0.17688155597138328
+        "cv_smape_macro_empresa": 0.17316803188222527,
+        "test_smape_macro_empresa": 0.1126078450544884,
+        "test_theilu_macro_empresa": 0.17688155597138544
       }
     },
     "TARGET_DRE_3.01_ITR_T3": {
       "Ridge": {
-        "cv_smape_macro_empresa": 0.4588979758147884,
-        "test_smape_macro_empresa": 0.3969733587332449,
-        "test_theilu_macro_empresa": 0.8068417691372463
+        "cv_smape_macro_empresa": 0.45889809574001533,
+        "test_smape_macro_empresa": 0.3969734716233958,
+        "test_theilu_macro_empresa": 0.80684245537753
       },
       "SVR": {
-        "cv_smape_macro_empresa": 0.9173172991200774,
+        "cv_smape_macro_empresa": 0.9173172991200674,
         "test_smape_macro_empresa": 1.0,
-        "test_theilu_macro_empresa": 1.436233088364566
+        "test_theilu_macro_empresa": 1.436233088364287
       },
       "RandomForest": {
-        "cv_smape_macro_empresa": 0.267298441910703,
-        "test_smape_macro_empresa": 0.1638402197917891,
-        "test_theilu_macro_empresa": 0.2955543453400172
+        "cv_smape_macro_empresa": 0.26729844191070334,
+        "test_smape_macro_empresa": 0.16384021979178962,
+        "test_theilu_macro_empresa": 0.2955543453400212
       },
       "GradientBoosting": {
-        "cv_smape_macro_empresa": 0.14369654951108482,
-        "test_smape_macro_empresa": 0.1197452234310766,
-        "test_theilu_macro_empresa": 0.2179582347258816
+        "cv_smape_macro_empresa": 0.14352576604676145,
+        "test_smape_macro_empresa": 0.11904199519943363,
+        "test_theilu_macro_empresa": 0.21435591312424213
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.20549749571089393,
-        "test_smape_macro_empresa": 0.14115933395126165,
-        "test_theilu_macro_empresa": 0.24458374661272136
+        "cv_smape_macro_empresa": 0.20541210397873239,
+        "test_smape_macro_empresa": 0.13942680391118034,
+        "test_theilu_macro_empresa": 0.24234492872820101
       }
     },
     "TARGET_DRE_3.01_DFP": {
       "Ridge": {
-        "cv_smape_macro_empresa": 0.3738271475444687,
-        "test_smape_macro_empresa": 0.3227596299694958,
+        "cv_smape_macro_empresa": 0.37382722623221804,
+        "test_smape_macro_empresa": 0.3227598581782065,
         "test_theilu_macro_empresa": 2.0
       },
       "SVR": {
-        "cv_smape_macro_empresa": 0.9389014170951674,
-        "test_smape_macro_empresa": 0.9826706662903952,
+        "cv_smape_macro_empresa": 0.93890141709521,
+        "test_smape_macro_empresa": 0.9826706662904381,
         "test_theilu_macro_empresa": 2.0
       },
       "RandomForest": {
-        "cv_smape_macro_empresa": 0.2474319111572437,
-        "test_smape_macro_empresa": 0.26103577063049893,
+        "cv_smape_macro_empresa": 0.24743191115724317,
+        "test_smape_macro_empresa": 0.2610357706305001,
         "test_theilu_macro_empresa": 2.0
       },
       "GradientBoosting": {
-        "cv_smape_macro_empresa": 0.15125913976900918,
-        "test_smape_macro_empresa": 0.19322665225333766,
+        "cv_smape_macro_empresa": 0.15212622175750845,
+        "test_smape_macro_empresa": 0.1938076492728853,
         "test_theilu_macro_empresa": 2.0
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.19934552546312645,
-        "test_smape_macro_empresa": 0.22096543850009942,
+        "cv_smape_macro_empresa": 0.1997790664573758,
+        "test_smape_macro_empresa": 0.22110947442817974,
         "test_theilu_macro_empresa": 2.0
       }
     },
@@ -221,81 +221,81 @@
       "Ridge": {
         "cv_smape_macro_empresa": 1.0,
         "test_smape_macro_empresa": 1.0,
-        "test_theilu_macro_empresa": 1.8501866190919583
+        "test_theilu_macro_empresa": 1.8501888659412793
       },
       "SVR": {
         "cv_smape_macro_empresa": 1.0,
         "test_smape_macro_empresa": 1.0,
-        "test_theilu_macro_empresa": 1.2696305467199558
+        "test_theilu_macro_empresa": 1.2696305467199553
       },
       "RandomForest": {
-        "cv_smape_macro_empresa": 0.7916943591775346,
-        "test_smape_macro_empresa": 0.6277892335858558,
-        "test_theilu_macro_empresa": 0.6149549417933137
+        "cv_smape_macro_empresa": 0.7916943591775354,
+        "test_smape_macro_empresa": 0.6277892335858537,
+        "test_theilu_macro_empresa": 0.6149549417933102
       },
       "GradientBoosting": {
         "cv_smape_macro_empresa": 0.7464501992645665,
-        "test_smape_macro_empresa": 0.5841682319532351,
-        "test_theilu_macro_empresa": 0.562899762782034
+        "test_smape_macro_empresa": 0.6080934325457732,
+        "test_theilu_macro_empresa": 0.5705169513749181
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.7690722792210505,
-        "test_smape_macro_empresa": 0.5819604198241849,
-        "test_theilu_macro_empresa": 0.5696564386216587
+        "cv_smape_macro_empresa": 0.7690722792210509,
+        "test_smape_macro_empresa": 0.6132696439728763,
+        "test_theilu_macro_empresa": 0.5801217513250546
       }
     },
     "TARGET_DRE_3.11_ITR_T2": {
       "Ridge": {
         "cv_smape_macro_empresa": 1.0,
         "test_smape_macro_empresa": 1.0,
-        "test_theilu_macro_empresa": 1.212425227671854
+        "test_theilu_macro_empresa": 1.2124251771924779
       },
       "SVR": {
         "cv_smape_macro_empresa": 1.0,
         "test_smape_macro_empresa": 1.0,
-        "test_theilu_macro_empresa": 1.0330830393945465
+        "test_theilu_macro_empresa": 1.0330830393945452
       },
       "RandomForest": {
         "cv_smape_macro_empresa": 1.0,
-        "test_smape_macro_empresa": 0.925520551299685,
+        "test_smape_macro_empresa": 0.9255205512996859,
         "test_theilu_macro_empresa": 0.9746074986591091
       },
       "GradientBoosting": {
-        "cv_smape_macro_empresa": 0.6688105963075035,
-        "test_smape_macro_empresa": 0.8161380094249767,
-        "test_theilu_macro_empresa": 0.5663400709948143
+        "cv_smape_macro_empresa": 0.716902436003659,
+        "test_smape_macro_empresa": 0.7747748759392308,
+        "test_theilu_macro_empresa": 0.7695630717154714
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.8344052981537518,
-        "test_smape_macro_empresa": 0.7974535210802941,
-        "test_theilu_macro_empresa": 0.8681627155461356
+        "cv_smape_macro_empresa": 0.8584512180018296,
+        "test_smape_macro_empresa": 0.810456923851417,
+        "test_theilu_macro_empresa": 0.9076805780880437
       }
     },
     "TARGET_DRE_3.11_ITR_T3": {
       "Ridge": {
         "cv_smape_macro_empresa": 1.0,
         "test_smape_macro_empresa": 1.0,
-        "test_theilu_macro_empresa": 1.8186867820510684
+        "test_theilu_macro_empresa": 1.818686777004213
       },
       "SVR": {
         "cv_smape_macro_empresa": 1.0,
         "test_smape_macro_empresa": 1.0,
-        "test_theilu_macro_empresa": 1.6017671429590816
+        "test_theilu_macro_empresa": 1.6017671429590825
       },
       "RandomForest": {
         "cv_smape_macro_empresa": 1.0,
-        "test_smape_macro_empresa": 0.9159570843659806,
-        "test_theilu_macro_empresa": 1.2939774154575927
+        "test_smape_macro_empresa": 0.9159570843659788,
+        "test_theilu_macro_empresa": 1.293977415457595
       },
       "GradientBoosting": {
-        "cv_smape_macro_empresa": 0.8597364787983919,
+        "cv_smape_macro_empresa": 0.8396154011205956,
         "test_smape_macro_empresa": 0.7639764685087158,
         "test_theilu_macro_empresa": 0.77772931343847
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.9298682393991959,
-        "test_smape_macro_empresa": 0.8819278057826097,
-        "test_theilu_macro_empresa": 1.0298486952877826
+        "cv_smape_macro_empresa": 0.9198077005602978,
+        "test_smape_macro_empresa": 0.8819278057826092,
+        "test_theilu_macro_empresa": 1.029848695287783
       }
     },
     "TARGET_DRE_3.11_DFP": {
@@ -305,67 +305,67 @@
         "test_theilu_macro_empresa": 2.0
       },
       "SVR": {
-        "cv_smape_macro_empresa": 0.9803878145132753,
-        "test_smape_macro_empresa": 0.9896060136798611,
+        "cv_smape_macro_empresa": 0.9803878145132744,
+        "test_smape_macro_empresa": 0.9896060136798597,
         "test_theilu_macro_empresa": 2.0
       },
       "RandomForest": {
         "cv_smape_macro_empresa": 0.7331539866978231,
-        "test_smape_macro_empresa": 0.5123946882477819,
+        "test_smape_macro_empresa": 0.5123946882477801,
         "test_theilu_macro_empresa": 2.0
       },
       "GradientBoosting": {
-        "cv_smape_macro_empresa": 0.5316630596123423,
+        "cv_smape_macro_empresa": 0.5326295473819607,
         "test_smape_macro_empresa": 0.4687421753596173,
         "test_theilu_macro_empresa": 1.61916221557166
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.6324085231550827,
-        "test_smape_macro_empresa": 0.40346462717964254,
-        "test_theilu_macro_empresa": 1.762859665844027
+        "cv_smape_macro_empresa": 0.6328917670398919,
+        "test_smape_macro_empresa": 0.40346462717964215,
+        "test_theilu_macro_empresa": 1.7628596658440272
       }
     },
     "TARGET_EBITDA_ITR_T1": {
       "Ridge": {
-        "cv_smape_macro_empresa": 0.4550713427004934,
-        "test_smape_macro_empresa": 0.4390943622372081,
-        "test_theilu_macro_empresa": 0.669898079101294
+        "cv_smape_macro_empresa": 0.4550713444963559,
+        "test_smape_macro_empresa": 0.43909437263740275,
+        "test_theilu_macro_empresa": 0.6698978396049728
       },
       "SVR": {
-        "cv_smape_macro_empresa": 0.9843596876793955,
+        "cv_smape_macro_empresa": 0.9843596876794086,
         "test_smape_macro_empresa": 1.0,
-        "test_theilu_macro_empresa": 1.3481446790292435
+        "test_theilu_macro_empresa": 1.3481446790292433
       },
       "RandomForest": {
-        "cv_smape_macro_empresa": 0.21861828037480766,
-        "test_smape_macro_empresa": 0.3354837931485796,
-        "test_theilu_macro_empresa": 0.411113388396751
+        "cv_smape_macro_empresa": 0.2186182803748081,
+        "test_smape_macro_empresa": 0.33548379314857996,
+        "test_theilu_macro_empresa": 0.41111338839675055
       },
       "GradientBoosting": {
-        "cv_smape_macro_empresa": 0.15416302674835292,
+        "cv_smape_macro_empresa": 0.15423986887410684,
         "test_smape_macro_empresa": 0.2823430052052013,
         "test_theilu_macro_empresa": 0.3298965062346823
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.1863906535615803,
-        "test_smape_macro_empresa": 0.3028912210274306,
-        "test_theilu_macro_empresa": 0.3707151171242061
+        "cv_smape_macro_empresa": 0.18642907462445746,
+        "test_smape_macro_empresa": 0.3028912210274314,
+        "test_theilu_macro_empresa": 0.3707151171242059
       }
     },
     "TARGET_EBITDA_ITR_T2": {
       "Ridge": {
-        "cv_smape_macro_empresa": 0.46363940959568795,
-        "test_smape_macro_empresa": 0.41710765045226794,
-        "test_theilu_macro_empresa": 0.5443754868781727
+        "cv_smape_macro_empresa": 0.4636395312763413,
+        "test_smape_macro_empresa": 0.41710777391624526,
+        "test_theilu_macro_empresa": 0.5443753223872145
       },
       "SVR": {
-        "cv_smape_macro_empresa": 0.9770184702654469,
+        "cv_smape_macro_empresa": 0.9770184702654472,
         "test_smape_macro_empresa": 1.0,
-        "test_theilu_macro_empresa": 1.081173020202486
+        "test_theilu_macro_empresa": 1.0811730202024818
       },
       "RandomForest": {
         "cv_smape_macro_empresa": 0.25182850324279926,
-        "test_smape_macro_empresa": 0.20677756296282912,
+        "test_smape_macro_empresa": 0.206777562962828,
         "test_theilu_macro_empresa": 0.2889735013948299
       },
       "GradientBoosting": {
@@ -375,51 +375,51 @@
       },
       "Ensemble": {
         "cv_smape_macro_empresa": 0.22447996697772987,
-        "test_smape_macro_empresa": 0.16761848467120968,
-        "test_theilu_macro_empresa": 0.25862130574151726
+        "test_smape_macro_empresa": 0.16761848467120943,
+        "test_theilu_macro_empresa": 0.2586213057415172
       }
     },
     "TARGET_EBITDA_ITR_T3": {
       "Ridge": {
-        "cv_smape_macro_empresa": 0.4176746426532471,
-        "test_smape_macro_empresa": 0.4375667061607893,
-        "test_theilu_macro_empresa": 0.9104252240448516
+        "cv_smape_macro_empresa": 0.41767462378224884,
+        "test_smape_macro_empresa": 0.4375666813202098,
+        "test_theilu_macro_empresa": 0.9104252493602514
       },
       "SVR": {
-        "cv_smape_macro_empresa": 0.9694681623561064,
+        "cv_smape_macro_empresa": 0.9694681623561116,
         "test_smape_macro_empresa": 1.0,
-        "test_theilu_macro_empresa": 1.5571146484359062
+        "test_theilu_macro_empresa": 1.557114648435904
       },
       "RandomForest": {
-        "cv_smape_macro_empresa": 0.19459656504295733,
-        "test_smape_macro_empresa": 0.14976878747002118,
-        "test_theilu_macro_empresa": 0.2954410522447899
+        "cv_smape_macro_empresa": 0.19459656504295775,
+        "test_smape_macro_empresa": 0.14976878747002131,
+        "test_theilu_macro_empresa": 0.2954410522447909
       },
       "GradientBoosting": {
-        "cv_smape_macro_empresa": 0.14453287977716187,
+        "cv_smape_macro_empresa": 0.14500885347770018,
         "test_smape_macro_empresa": 0.08666646033221673,
         "test_theilu_macro_empresa": 0.19596160204271984
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.1695647224100596,
-        "test_smape_macro_empresa": 0.12114098567223094,
-        "test_theilu_macro_empresa": 0.22257020604507688
+        "cv_smape_macro_empresa": 0.16980270926032898,
+        "test_smape_macro_empresa": 0.12114098567222972,
+        "test_theilu_macro_empresa": 0.2225702060450745
       }
     },
     "TARGET_EBITDA_DFP": {
       "Ridge": {
-        "cv_smape_macro_empresa": 0.32519384539417046,
-        "test_smape_macro_empresa": 0.32583151737593463,
+        "cv_smape_macro_empresa": 0.32519385898716174,
+        "test_smape_macro_empresa": 0.32583153292437805,
         "test_theilu_macro_empresa": 2.0
       },
       "SVR": {
-        "cv_smape_macro_empresa": 0.9664944796938691,
+        "cv_smape_macro_empresa": 0.9664944796938717,
         "test_smape_macro_empresa": 1.0,
         "test_theilu_macro_empresa": 2.0
       },
       "RandomForest": {
-        "cv_smape_macro_empresa": 0.141138294956322,
-        "test_smape_macro_empresa": 0.09684857092591197,
+        "cv_smape_macro_empresa": 0.14113829495632202,
+        "test_smape_macro_empresa": 0.09684857092591259,
         "test_theilu_macro_empresa": 2.0
       },
       "GradientBoosting": {
@@ -428,161 +428,161 @@
         "test_theilu_macro_empresa": 2.0
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.1379327720572605,
-        "test_smape_macro_empresa": 0.0982553356349003,
-        "test_theilu_macro_empresa": 1.873637844229687
+        "cv_smape_macro_empresa": 0.13793277205726054,
+        "test_smape_macro_empresa": 0.09825533563490017,
+        "test_theilu_macro_empresa": 1.873637844229686
       }
     },
     "TARGET_BPA_1_ITR_T1": {
       "Ridge": {
-        "cv_smape_macro_empresa": 0.4483148531258619,
-        "test_smape_macro_empresa": 0.32484423403946994,
+        "cv_smape_macro_empresa": 0.448314813484852,
+        "test_smape_macro_empresa": 0.32484420673203696,
         "test_theilu_macro_empresa": 2.0
       },
       "SVR": {
-        "cv_smape_macro_empresa": 0.9162689846707431,
+        "cv_smape_macro_empresa": 0.9162689846707256,
         "test_smape_macro_empresa": 1.0,
         "test_theilu_macro_empresa": 2.0
       },
       "RandomForest": {
-        "cv_smape_macro_empresa": 0.09918124121032283,
-        "test_smape_macro_empresa": 0.0769744001171727,
-        "test_theilu_macro_empresa": 1.8861823873055932
+        "cv_smape_macro_empresa": 0.09918124121032369,
+        "test_smape_macro_empresa": 0.07697440011717534,
+        "test_theilu_macro_empresa": 1.8861823873055834
       },
       "GradientBoosting": {
-        "cv_smape_macro_empresa": 0.10428987641870113,
+        "cv_smape_macro_empresa": 0.10495087666162119,
         "test_smape_macro_empresa": 0.07904519717746458,
         "test_theilu_macro_empresa": 1.8710820292323977
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.10173555881451199,
-        "test_smape_macro_empresa": 0.047995475519550544,
-        "test_theilu_macro_empresa": 1.366325914816062
+        "cv_smape_macro_empresa": 0.10206605893597244,
+        "test_smape_macro_empresa": 0.04799547551955412,
+        "test_theilu_macro_empresa": 1.366325914816055
       }
     },
     "TARGET_BPA_1_ITR_T2": {
       "Ridge": {
-        "cv_smape_macro_empresa": 0.434785994449828,
-        "test_smape_macro_empresa": 0.3171778871719904,
+        "cv_smape_macro_empresa": 0.4347858587673614,
+        "test_smape_macro_empresa": 0.3171778532044525,
         "test_theilu_macro_empresa": 2.0
       },
       "SVR": {
-        "cv_smape_macro_empresa": 0.8753489014407263,
+        "cv_smape_macro_empresa": 0.8753489014407366,
         "test_smape_macro_empresa": 1.0,
         "test_theilu_macro_empresa": 2.0
       },
       "RandomForest": {
-        "cv_smape_macro_empresa": 0.09680514460661721,
-        "test_smape_macro_empresa": 0.059157533443365475,
+        "cv_smape_macro_empresa": 0.09680514460661767,
+        "test_smape_macro_empresa": 0.059157533443367855,
         "test_theilu_macro_empresa": 2.0
       },
       "GradientBoosting": {
-        "cv_smape_macro_empresa": 0.0840611946411232,
-        "test_smape_macro_empresa": 0.06114581363078927,
-        "test_theilu_macro_empresa": 1.6529230445553744
+        "cv_smape_macro_empresa": 0.08342195233273446,
+        "test_smape_macro_empresa": 0.06114395436768231,
+        "test_theilu_macro_empresa": 1.6362171531081864
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.09043316962387021,
-        "test_smape_macro_empresa": 0.05888219313165897,
-        "test_theilu_macro_empresa": 1.566153662408183
+        "cv_smape_macro_empresa": 0.09011354846967606,
+        "test_smape_macro_empresa": 0.05830414250774176,
+        "test_theilu_macro_empresa": 1.5403191225383523
       }
     },
     "TARGET_BPA_1_ITR_T3": {
       "Ridge": {
-        "cv_smape_macro_empresa": 0.43554567494201635,
-        "test_smape_macro_empresa": 0.3564622937182558,
+        "cv_smape_macro_empresa": 0.43554599901477303,
+        "test_smape_macro_empresa": 0.356462346869355,
         "test_theilu_macro_empresa": 2.0
       },
       "SVR": {
-        "cv_smape_macro_empresa": 0.8651591369381223,
-        "test_smape_macro_empresa": 0.9949539125458786,
+        "cv_smape_macro_empresa": 0.8651591369380954,
+        "test_smape_macro_empresa": 0.9949539125458771,
         "test_theilu_macro_empresa": 2.0
       },
       "RandomForest": {
-        "cv_smape_macro_empresa": 0.08070686745199716,
-        "test_smape_macro_empresa": 0.07048415560826207,
-        "test_theilu_macro_empresa": 1.908970260974864
+        "cv_smape_macro_empresa": 0.08070686745199684,
+        "test_smape_macro_empresa": 0.07048415560826034,
+        "test_theilu_macro_empresa": 1.9089702609748183
       },
       "GradientBoosting": {
-        "cv_smape_macro_empresa": 0.0767468173199979,
+        "cv_smape_macro_empresa": 0.07677463936168981,
         "test_smape_macro_empresa": 0.050733700476538336,
         "test_theilu_macro_empresa": 1.3663777313811498
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.07872684238599753,
+        "cv_smape_macro_empresa": 0.07874075340684333,
         "test_smape_macro_empresa": 0.05978440473503521,
-        "test_theilu_macro_empresa": 1.5042513622384548
+        "test_theilu_macro_empresa": 1.5042513622385458
       }
     },
     "TARGET_BPA_1_DFP": {
       "Ridge": {
-        "cv_smape_macro_empresa": 0.4328876869562694,
-        "test_smape_macro_empresa": 0.3596536668746073,
+        "cv_smape_macro_empresa": 0.43288753698785604,
+        "test_smape_macro_empresa": 0.35965371144662894,
         "test_theilu_macro_empresa": 2.0
       },
       "SVR": {
-        "cv_smape_macro_empresa": 0.8794726647040606,
-        "test_smape_macro_empresa": 0.9726130503746611,
+        "cv_smape_macro_empresa": 0.8794726647040689,
+        "test_smape_macro_empresa": 0.9726130503746646,
         "test_theilu_macro_empresa": 2.0
       },
       "RandomForest": {
-        "cv_smape_macro_empresa": 0.10746480750294869,
-        "test_smape_macro_empresa": 0.19053043432753006,
+        "cv_smape_macro_empresa": 0.1074648075029484,
+        "test_smape_macro_empresa": 0.1905304343275308,
         "test_theilu_macro_empresa": 2.0
       },
       "GradientBoosting": {
-        "cv_smape_macro_empresa": 0.10444502078189492,
-        "test_smape_macro_empresa": 0.1648799916124275,
+        "cv_smape_macro_empresa": 0.10519385396993085,
+        "test_smape_macro_empresa": 0.16687015464434257,
         "test_theilu_macro_empresa": 2.0
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.10595491414242181,
-        "test_smape_macro_empresa": 0.1682825361431117,
+        "cv_smape_macro_empresa": 0.10632933073643963,
+        "test_smape_macro_empresa": 0.16943047914017303,
         "test_theilu_macro_empresa": 2.0
       }
     },
     "TARGET_BPA_1.01_ITR_T1": {
       "Ridge": {
-        "cv_smape_macro_empresa": 0.3104904965909178,
-        "test_smape_macro_empresa": 0.3363334024959337,
+        "cv_smape_macro_empresa": 0.310490542430953,
+        "test_smape_macro_empresa": 0.3363333239502883,
         "test_theilu_macro_empresa": 2.0
       },
       "SVR": {
-        "cv_smape_macro_empresa": 0.8204972337593034,
+        "cv_smape_macro_empresa": 0.8204972337592972,
         "test_smape_macro_empresa": 1.0,
         "test_theilu_macro_empresa": 2.0
       },
       "RandomForest": {
-        "cv_smape_macro_empresa": 0.11462017257893592,
-        "test_smape_macro_empresa": 0.09697248064473891,
-        "test_theilu_macro_empresa": 1.3304622249851497
+        "cv_smape_macro_empresa": 0.11462017257893385,
+        "test_smape_macro_empresa": 0.0969724806447385,
+        "test_theilu_macro_empresa": 1.3304622249851483
       },
       "GradientBoosting": {
-        "cv_smape_macro_empresa": 0.12158258610016959,
-        "test_smape_macro_empresa": 0.07902004477275983,
-        "test_theilu_macro_empresa": 1.1409103014822024
+        "cv_smape_macro_empresa": 0.12252537414742189,
+        "test_smape_macro_empresa": 0.08284813253999185,
+        "test_theilu_macro_empresa": 1.1538816503287779
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.11810137933955275,
-        "test_smape_macro_empresa": 0.0926881963914453,
-        "test_theilu_macro_empresa": 1.1587721902154118
+        "cv_smape_macro_empresa": 0.11857277336317787,
+        "test_smape_macro_empresa": 0.092313707619515,
+        "test_theilu_macro_empresa": 1.179013815961197
       }
     },
     "TARGET_BPA_1.01_ITR_T2": {
       "Ridge": {
-        "cv_smape_macro_empresa": 0.3266465848612697,
-        "test_smape_macro_empresa": 0.3058140952864599,
+        "cv_smape_macro_empresa": 0.32664668108896716,
+        "test_smape_macro_empresa": 0.30581405367881015,
         "test_theilu_macro_empresa": 2.0
       },
       "SVR": {
-        "cv_smape_macro_empresa": 0.8205616683929228,
+        "cv_smape_macro_empresa": 0.8205616683929158,
         "test_smape_macro_empresa": 1.0,
         "test_theilu_macro_empresa": 2.0
       },
       "RandomForest": {
-        "cv_smape_macro_empresa": 0.0947813749488491,
-        "test_smape_macro_empresa": 0.08622241877664916,
-        "test_theilu_macro_empresa": 1.4226563308989655
+        "cv_smape_macro_empresa": 0.0947813749488498,
+        "test_smape_macro_empresa": 0.08622241877664921,
+        "test_theilu_macro_empresa": 1.4226563308989864
       },
       "GradientBoosting": {
         "cv_smape_macro_empresa": 0.10278706755323448,
@@ -590,80 +590,80 @@
         "test_theilu_macro_empresa": 1.0819412216735913
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.09878422125104179,
-        "test_smape_macro_empresa": 0.08282793528059462,
-        "test_theilu_macro_empresa": 1.1719522168350678
+        "cv_smape_macro_empresa": 0.09878422125104214,
+        "test_smape_macro_empresa": 0.08282793528059491,
+        "test_theilu_macro_empresa": 1.1719522168350742
       }
     },
     "TARGET_BPA_1.01_ITR_T3": {
       "Ridge": {
-        "cv_smape_macro_empresa": 0.4023338633255475,
-        "test_smape_macro_empresa": 0.28578127088488947,
+        "cv_smape_macro_empresa": 0.40233402767771226,
+        "test_smape_macro_empresa": 0.2857813078907485,
         "test_theilu_macro_empresa": 2.0
       },
       "SVR": {
-        "cv_smape_macro_empresa": 0.8230458511946382,
-        "test_smape_macro_empresa": 0.9923686655134633,
+        "cv_smape_macro_empresa": 0.8230458511946542,
+        "test_smape_macro_empresa": 0.9923686655134668,
         "test_theilu_macro_empresa": 2.0
       },
       "RandomForest": {
-        "cv_smape_macro_empresa": 0.0983760160308735,
-        "test_smape_macro_empresa": 0.09309080200920458,
-        "test_theilu_macro_empresa": 1.306197065649038
+        "cv_smape_macro_empresa": 0.09837601603087233,
+        "test_smape_macro_empresa": 0.09309080200920211,
+        "test_theilu_macro_empresa": 1.3061970656490636
       },
       "GradientBoosting": {
-        "cv_smape_macro_empresa": 0.09643493275378527,
+        "cv_smape_macro_empresa": 0.09527879785437328,
         "test_smape_macro_empresa": 0.07588964519235947,
         "test_theilu_macro_empresa": 1.0250238937877443
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.09740547439232938,
-        "test_smape_macro_empresa": 0.07830567469658295,
-        "test_theilu_macro_empresa": 1.104150640135153
+        "cv_smape_macro_empresa": 0.0968274069426228,
+        "test_smape_macro_empresa": 0.07830567469658241,
+        "test_theilu_macro_empresa": 1.1041506401351444
       }
     },
     "TARGET_BPA_1.01_DFP": {
       "Ridge": {
-        "cv_smape_macro_empresa": 0.34687410883009306,
-        "test_smape_macro_empresa": 0.25502984164018194,
+        "cv_smape_macro_empresa": 0.3468742552529939,
+        "test_smape_macro_empresa": 0.25502986615451034,
         "test_theilu_macro_empresa": 2.0
       },
       "SVR": {
-        "cv_smape_macro_empresa": 0.8194102320281793,
-        "test_smape_macro_empresa": 0.7923816755049407,
+        "cv_smape_macro_empresa": 0.8194102320281814,
+        "test_smape_macro_empresa": 0.79238167550494,
         "test_theilu_macro_empresa": 2.0
       },
       "RandomForest": {
-        "cv_smape_macro_empresa": 0.1486237826330669,
+        "cv_smape_macro_empresa": 0.148623782633066,
         "test_smape_macro_empresa": 0.19111362553922123,
         "test_theilu_macro_empresa": 2.0
       },
       "GradientBoosting": {
         "cv_smape_macro_empresa": 0.12585868672647946,
-        "test_smape_macro_empresa": 0.1780601437412429,
+        "test_smape_macro_empresa": 0.18053193365204476,
         "test_theilu_macro_empresa": 2.0
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.13724123467977317,
-        "test_smape_macro_empresa": 0.18238436437715616,
+        "cv_smape_macro_empresa": 0.13724123467977273,
+        "test_smape_macro_empresa": 0.18236533273742184,
         "test_theilu_macro_empresa": 2.0
       }
     },
     "TARGET_BPP_2.01_ITR_T1": {
       "Ridge": {
-        "cv_smape_macro_empresa": 0.4020516632423126,
-        "test_smape_macro_empresa": 0.27773979127679216,
+        "cv_smape_macro_empresa": 0.4020515983259794,
+        "test_smape_macro_empresa": 0.2777399009815326,
         "test_theilu_macro_empresa": 2.0
       },
       "SVR": {
-        "cv_smape_macro_empresa": 0.9260450130637762,
+        "cv_smape_macro_empresa": 0.9260450130637596,
         "test_smape_macro_empresa": 1.0,
         "test_theilu_macro_empresa": 2.0
       },
       "RandomForest": {
-        "cv_smape_macro_empresa": 0.13405546623685463,
-        "test_smape_macro_empresa": 0.09886809851871779,
-        "test_theilu_macro_empresa": 1.0073425793407187
+        "cv_smape_macro_empresa": 0.13405546623685258,
+        "test_smape_macro_empresa": 0.09886809851871736,
+        "test_theilu_macro_empresa": 1.0073425793407105
       },
       "GradientBoosting": {
         "cv_smape_macro_empresa": 0.12490283012134706,
@@ -671,79 +671,79 @@
         "test_theilu_macro_empresa": 0.9479679253076658
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.12947914817910083,
-        "test_smape_macro_empresa": 0.08975785825082462,
-        "test_theilu_macro_empresa": 1.01140920768537
+        "cv_smape_macro_empresa": 0.12947914817909983,
+        "test_smape_macro_empresa": 0.08975785825082283,
+        "test_theilu_macro_empresa": 1.0114092076853751
       }
     },
     "TARGET_BPP_2.01_ITR_T2": {
       "Ridge": {
-        "cv_smape_macro_empresa": 0.37264638220257756,
-        "test_smape_macro_empresa": 0.33323802472089253,
+        "cv_smape_macro_empresa": 0.37264634255456724,
+        "test_smape_macro_empresa": 0.33323820351003586,
         "test_theilu_macro_empresa": 2.0
       },
       "SVR": {
-        "cv_smape_macro_empresa": 0.9396159807680563,
+        "cv_smape_macro_empresa": 0.9396159807680421,
         "test_smape_macro_empresa": 1.0,
         "test_theilu_macro_empresa": 2.0
       },
       "RandomForest": {
-        "cv_smape_macro_empresa": 0.13827083434554396,
-        "test_smape_macro_empresa": 0.1307736952031692,
-        "test_theilu_macro_empresa": 0.976576246493011
+        "cv_smape_macro_empresa": 0.13827083434554202,
+        "test_smape_macro_empresa": 0.13077369520317034,
+        "test_theilu_macro_empresa": 0.9765762464930074
       },
       "GradientBoosting": {
-        "cv_smape_macro_empresa": 0.14053731349971502,
+        "cv_smape_macro_empresa": 0.14117984030048727,
         "test_smape_macro_empresa": 0.13095345052240157,
         "test_theilu_macro_empresa": 1.0257365633312028
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.1394040739226295,
-        "test_smape_macro_empresa": 0.13282475915847047,
-        "test_theilu_macro_empresa": 1.0237573105843243
+        "cv_smape_macro_empresa": 0.13972533732301465,
+        "test_smape_macro_empresa": 0.1328247591584716,
+        "test_theilu_macro_empresa": 1.0237573105843287
       }
     },
     "TARGET_BPP_2.01_ITR_T3": {
       "Ridge": {
-        "cv_smape_macro_empresa": 0.3332037342196496,
-        "test_smape_macro_empresa": 0.30309489824488356,
+        "cv_smape_macro_empresa": 0.33320378887258295,
+        "test_smape_macro_empresa": 0.3030950383083042,
         "test_theilu_macro_empresa": 2.0
       },
       "SVR": {
-        "cv_smape_macro_empresa": 0.9306132190966871,
-        "test_smape_macro_empresa": 0.9746387305717515,
+        "cv_smape_macro_empresa": 0.9306132190966768,
+        "test_smape_macro_empresa": 0.974638730571751,
         "test_theilu_macro_empresa": 2.0
       },
       "RandomForest": {
-        "cv_smape_macro_empresa": 0.12271695872602427,
-        "test_smape_macro_empresa": 0.10166992322946608,
-        "test_theilu_macro_empresa": 0.9425082405964733
+        "cv_smape_macro_empresa": 0.12271695872602419,
+        "test_smape_macro_empresa": 0.10166992322946558,
+        "test_theilu_macro_empresa": 0.9425082405964775
       },
       "GradientBoosting": {
-        "cv_smape_macro_empresa": 0.1317890196113202,
+        "cv_smape_macro_empresa": 0.1312356005439513,
         "test_smape_macro_empresa": 0.10083165715789838,
         "test_theilu_macro_empresa": 0.9733940727592842
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.12725298916867223,
-        "test_smape_macro_empresa": 0.09811123537080581,
-        "test_theilu_macro_empresa": 0.9745562892370303
+        "cv_smape_macro_empresa": 0.12697627963498775,
+        "test_smape_macro_empresa": 0.09811123537080652,
+        "test_theilu_macro_empresa": 0.9745562892370249
       }
     },
     "TARGET_BPP_2.01_DFP": {
       "Ridge": {
-        "cv_smape_macro_empresa": 0.3756835103515077,
-        "test_smape_macro_empresa": 0.24888803186595215,
+        "cv_smape_macro_empresa": 0.37568354171670354,
+        "test_smape_macro_empresa": 0.24888803054186853,
         "test_theilu_macro_empresa": 2.0
       },
       "SVR": {
-        "cv_smape_macro_empresa": 0.9205804594134316,
-        "test_smape_macro_empresa": 0.8318606102258996,
+        "cv_smape_macro_empresa": 0.9205804594133994,
+        "test_smape_macro_empresa": 0.8318606102258997,
         "test_theilu_macro_empresa": 2.0
       },
       "RandomForest": {
         "cv_smape_macro_empresa": 0.17493722880224957,
-        "test_smape_macro_empresa": 0.24324156655329754,
+        "test_smape_macro_empresa": 0.24324156655329598,
         "test_theilu_macro_empresa": 2.0
       },
       "GradientBoosting": {
@@ -753,14 +753,14 @@
       },
       "Ensemble": {
         "cv_smape_macro_empresa": 0.1630173957680446,
-        "test_smape_macro_empresa": 0.22902566889408182,
+        "test_smape_macro_empresa": 0.22902566889408205,
         "test_theilu_macro_empresa": 2.0
       }
     },
     "TARGET_BPP_2.03_ITR_T1": {
       "Ridge": {
-        "cv_smape_macro_empresa": 0.4059794314518819,
-        "test_smape_macro_empresa": 0.4639759375469614,
+        "cv_smape_macro_empresa": 0.40597931378284846,
+        "test_smape_macro_empresa": 0.4639758770586841,
         "test_theilu_macro_empresa": 2.0
       },
       "SVR": {
@@ -769,89 +769,89 @@
         "test_theilu_macro_empresa": 2.0
       },
       "RandomForest": {
-        "cv_smape_macro_empresa": 0.15374794053104077,
-        "test_smape_macro_empresa": 0.08019331583173255,
-        "test_theilu_macro_empresa": 1.7473675068044956
+        "cv_smape_macro_empresa": 0.1537479405310425,
+        "test_smape_macro_empresa": 0.08019331583173456,
+        "test_theilu_macro_empresa": 1.7473675068044976
       },
       "GradientBoosting": {
-        "cv_smape_macro_empresa": 0.15581159009167714,
+        "cv_smape_macro_empresa": 0.15675242197020278,
         "test_smape_macro_empresa": 0.06498408168935152,
         "test_theilu_macro_empresa": 1.610425579427313
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.15477976531135895,
-        "test_smape_macro_empresa": 0.061178070915388544,
-        "test_theilu_macro_empresa": 1.4545512159710958
+        "cv_smape_macro_empresa": 0.15525018125062262,
+        "test_smape_macro_empresa": 0.06117807091538675,
+        "test_theilu_macro_empresa": 1.4545512159711087
       }
     },
     "TARGET_BPP_2.03_ITR_T2": {
       "Ridge": {
-        "cv_smape_macro_empresa": 0.39304347330549566,
-        "test_smape_macro_empresa": 0.4966109740500601,
+        "cv_smape_macro_empresa": 0.39304359693205265,
+        "test_smape_macro_empresa": 0.4966109562402565,
         "test_theilu_macro_empresa": 2.0
       },
       "SVR": {
-        "cv_smape_macro_empresa": 0.7943268584740865,
+        "cv_smape_macro_empresa": 0.7943268584740845,
         "test_smape_macro_empresa": 1.0,
         "test_theilu_macro_empresa": 2.0
       },
       "RandomForest": {
-        "cv_smape_macro_empresa": 0.14278220071385628,
-        "test_smape_macro_empresa": 0.07618149697201182,
-        "test_theilu_macro_empresa": 1.9048444341644237
+        "cv_smape_macro_empresa": 0.1414994445267605,
+        "test_smape_macro_empresa": 0.07618149697201122,
+        "test_theilu_macro_empresa": 1.9048444341644282
       },
       "GradientBoosting": {
-        "cv_smape_macro_empresa": 0.12474726228639783,
-        "test_smape_macro_empresa": 0.05563071768174563,
-        "test_theilu_macro_empresa": 1.4048001114653736
+        "cv_smape_macro_empresa": 0.12329589287641966,
+        "test_smape_macro_empresa": 0.05557001790303492,
+        "test_theilu_macro_empresa": 1.5042258482774427
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.13376473150012705,
-        "test_smape_macro_empresa": 0.059664856859110806,
-        "test_theilu_macro_empresa": 1.484229896860491
+        "cv_smape_macro_empresa": 0.1323976687015901,
+        "test_smape_macro_empresa": 0.060962268516734884,
+        "test_theilu_macro_empresa": 1.488628299000289
       }
     },
     "TARGET_BPP_2.03_ITR_T3": {
       "Ridge": {
-        "cv_smape_macro_empresa": 0.4345903953454844,
-        "test_smape_macro_empresa": 0.4902945587069146,
+        "cv_smape_macro_empresa": 0.4345906262140058,
+        "test_smape_macro_empresa": 0.49029463674068485,
         "test_theilu_macro_empresa": 2.0
       },
       "SVR": {
-        "cv_smape_macro_empresa": 0.7968610897478329,
-        "test_smape_macro_empresa": 0.9068526252684206,
+        "cv_smape_macro_empresa": 0.7968610897478343,
+        "test_smape_macro_empresa": 0.9068526252684213,
         "test_theilu_macro_empresa": 2.0
       },
       "RandomForest": {
         "cv_smape_macro_empresa": 0.13044708211736436,
-        "test_smape_macro_empresa": 0.07657700550968163,
-        "test_theilu_macro_empresa": 1.4024485554243102
+        "test_smape_macro_empresa": 0.07657700550968338,
+        "test_theilu_macro_empresa": 1.4024485554243746
       },
       "GradientBoosting": {
-        "cv_smape_macro_empresa": 0.10277223460464303,
+        "cv_smape_macro_empresa": 0.10494479890299019,
         "test_smape_macro_empresa": 0.06138525043168406,
         "test_theilu_macro_empresa": 1.4733526277131888
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.1166096583610037,
-        "test_smape_macro_empresa": 0.06838333510100848,
-        "test_theilu_macro_empresa": 1.3644430815894666
+        "cv_smape_macro_empresa": 0.11769594051017727,
+        "test_smape_macro_empresa": 0.06838333510100886,
+        "test_theilu_macro_empresa": 1.3644430815894688
       }
     },
     "TARGET_BPP_2.03_DFP": {
       "Ridge": {
-        "cv_smape_macro_empresa": 0.40316592788164035,
-        "test_smape_macro_empresa": 0.38684583754413593,
+        "cv_smape_macro_empresa": 0.403165849557122,
+        "test_smape_macro_empresa": 0.38684580423988224,
         "test_theilu_macro_empresa": 2.0
       },
       "SVR": {
         "cv_smape_macro_empresa": 0.785010963882459,
-        "test_smape_macro_empresa": 0.8247701554507985,
+        "test_smape_macro_empresa": 0.8247701554507989,
         "test_theilu_macro_empresa": 2.0
       },
       "RandomForest": {
-        "cv_smape_macro_empresa": 0.16217755033734127,
-        "test_smape_macro_empresa": 0.19588463353099062,
+        "cv_smape_macro_empresa": 0.16217755033734182,
+        "test_smape_macro_empresa": 0.19588463353099034,
         "test_theilu_macro_empresa": 2.0
       },
       "GradientBoosting": {
@@ -860,116 +860,116 @@
         "test_theilu_macro_empresa": 2.0
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.14834840659596954,
-        "test_smape_macro_empresa": 0.17801421666719494,
+        "cv_smape_macro_empresa": 0.14834840659596982,
+        "test_smape_macro_empresa": 0.17801421666719547,
         "test_theilu_macro_empresa": 2.0
       }
     },
     "TARGET_BPP_2_ITR_T1": {
       "Ridge": {
-        "cv_smape_macro_empresa": 0.4483148531258619,
-        "test_smape_macro_empresa": 0.32484423403946994,
+        "cv_smape_macro_empresa": 0.448314813484852,
+        "test_smape_macro_empresa": 0.32484420673203696,
         "test_theilu_macro_empresa": 2.0
       },
       "SVR": {
-        "cv_smape_macro_empresa": 0.9162689846707431,
+        "cv_smape_macro_empresa": 0.9162689846707256,
         "test_smape_macro_empresa": 1.0,
         "test_theilu_macro_empresa": 2.0
       },
       "RandomForest": {
-        "cv_smape_macro_empresa": 0.09918124121032268,
-        "test_smape_macro_empresa": 0.07697440011717402,
-        "test_theilu_macro_empresa": 1.8861823873055834
+        "cv_smape_macro_empresa": 0.09918124121032225,
+        "test_smape_macro_empresa": 0.07697440011717266,
+        "test_theilu_macro_empresa": 1.8861823873055976
       },
       "GradientBoosting": {
-        "cv_smape_macro_empresa": 0.10428987641870113,
+        "cv_smape_macro_empresa": 0.10495087666162119,
         "test_smape_macro_empresa": 0.07904519717746458,
         "test_theilu_macro_empresa": 1.8710820292323977
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.1017355588145119,
-        "test_smape_macro_empresa": 0.04799547551955187,
-        "test_theilu_macro_empresa": 1.366325914816039
+        "cv_smape_macro_empresa": 0.10206605893597172,
+        "test_smape_macro_empresa": 0.04799547551955322,
+        "test_theilu_macro_empresa": 1.3663259148160511
       }
     },
     "TARGET_BPP_2_ITR_T2": {
       "Ridge": {
-        "cv_smape_macro_empresa": 0.434785994449828,
-        "test_smape_macro_empresa": 0.3171778871719904,
+        "cv_smape_macro_empresa": 0.4347858587673614,
+        "test_smape_macro_empresa": 0.3171778532044525,
         "test_theilu_macro_empresa": 2.0
       },
       "SVR": {
-        "cv_smape_macro_empresa": 0.8753489014407263,
+        "cv_smape_macro_empresa": 0.8753489014407366,
         "test_smape_macro_empresa": 1.0,
         "test_theilu_macro_empresa": 2.0
       },
       "RandomForest": {
-        "cv_smape_macro_empresa": 0.09680514460661709,
-        "test_smape_macro_empresa": 0.059157533443367265,
+        "cv_smape_macro_empresa": 0.09680514460661897,
+        "test_smape_macro_empresa": 0.05915753344336488,
         "test_theilu_macro_empresa": 2.0
       },
       "GradientBoosting": {
-        "cv_smape_macro_empresa": 0.0840611946411232,
-        "test_smape_macro_empresa": 0.06114581363078927,
-        "test_theilu_macro_empresa": 1.6529230445553744
+        "cv_smape_macro_empresa": 0.08342195233273446,
+        "test_smape_macro_empresa": 0.06114395436768231,
+        "test_theilu_macro_empresa": 1.6362171531081864
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.09043316962387014,
-        "test_smape_macro_empresa": 0.058882193131655436,
-        "test_theilu_macro_empresa": 1.566153662408183
+        "cv_smape_macro_empresa": 0.09011354846967672,
+        "test_smape_macro_empresa": 0.05830414250774236,
+        "test_theilu_macro_empresa": 1.5403191225383646
       }
     },
     "TARGET_BPP_2_ITR_T3": {
       "Ridge": {
-        "cv_smape_macro_empresa": 0.43554567494201635,
-        "test_smape_macro_empresa": 0.3564622937182558,
+        "cv_smape_macro_empresa": 0.43554599901477303,
+        "test_smape_macro_empresa": 0.356462346869355,
         "test_theilu_macro_empresa": 2.0
       },
       "SVR": {
-        "cv_smape_macro_empresa": 0.8651591369381223,
-        "test_smape_macro_empresa": 0.9949539125458786,
+        "cv_smape_macro_empresa": 0.8651591369380954,
+        "test_smape_macro_empresa": 0.9949539125458771,
         "test_theilu_macro_empresa": 2.0
       },
       "RandomForest": {
-        "cv_smape_macro_empresa": 0.08070686745199625,
-        "test_smape_macro_empresa": 0.07048415560826243,
-        "test_theilu_macro_empresa": 1.908970260974932
+        "cv_smape_macro_empresa": 0.08070686745199539,
+        "test_smape_macro_empresa": 0.07048415560826173,
+        "test_theilu_macro_empresa": 1.9089702609749284
       },
       "GradientBoosting": {
-        "cv_smape_macro_empresa": 0.0767468173199979,
+        "cv_smape_macro_empresa": 0.07677463936168981,
         "test_smape_macro_empresa": 0.050733700476538336,
         "test_theilu_macro_empresa": 1.3663777313811498
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.07872684238599707,
-        "test_smape_macro_empresa": 0.05978440473503628,
-        "test_theilu_macro_empresa": 1.5042513622384797
+        "cv_smape_macro_empresa": 0.0787407534068426,
+        "test_smape_macro_empresa": 0.059784404735036635,
+        "test_theilu_macro_empresa": 1.5042513622384932
       }
     },
     "TARGET_BPP_2_DFP": {
       "Ridge": {
-        "cv_smape_macro_empresa": 0.4328876869562694,
-        "test_smape_macro_empresa": 0.3596536668746073,
+        "cv_smape_macro_empresa": 0.43288753698785604,
+        "test_smape_macro_empresa": 0.35965371144662894,
         "test_theilu_macro_empresa": 2.0
       },
       "SVR": {
-        "cv_smape_macro_empresa": 0.8794726647040606,
-        "test_smape_macro_empresa": 0.9726130503746611,
+        "cv_smape_macro_empresa": 0.8794726647040689,
+        "test_smape_macro_empresa": 0.9726130503746646,
         "test_theilu_macro_empresa": 2.0
       },
       "RandomForest": {
-        "cv_smape_macro_empresa": 0.1074648075029484,
-        "test_smape_macro_empresa": 0.19053043432752995,
+        "cv_smape_macro_empresa": 0.10746480750294986,
+        "test_smape_macro_empresa": 0.19053043432753072,
         "test_theilu_macro_empresa": 2.0
       },
       "GradientBoosting": {
-        "cv_smape_macro_empresa": 0.10444502078189492,
-        "test_smape_macro_empresa": 0.1648799916124275,
+        "cv_smape_macro_empresa": 0.10519385396993085,
+        "test_smape_macro_empresa": 0.16687015464434257,
         "test_theilu_macro_empresa": 2.0
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.10595491414242167,
-        "test_smape_macro_empresa": 0.16828253614311148,
+        "cv_smape_macro_empresa": 0.10632933073644035,
+        "test_smape_macro_empresa": 0.16943047914017367,
         "test_theilu_macro_empresa": 2.0
       }
     },
@@ -977,34 +977,34 @@
       "Ridge": {
         "cv_smape_macro_empresa": 1.0,
         "test_smape_macro_empresa": 1.0,
-        "test_theilu_macro_empresa": 1.2056130190634033
+        "test_theilu_macro_empresa": 1.205613014687947
       },
       "SVR": {
         "cv_smape_macro_empresa": 1.0,
         "test_smape_macro_empresa": 1.0,
-        "test_theilu_macro_empresa": 1.3167037738156744
+        "test_theilu_macro_empresa": 1.3167037738156748
       },
       "RandomForest": {
         "cv_smape_macro_empresa": 1.0,
         "test_smape_macro_empresa": 1.0,
-        "test_theilu_macro_empresa": 1.216853454903143
+        "test_theilu_macro_empresa": 1.2168534549031431
       },
       "GradientBoosting": {
         "cv_smape_macro_empresa": 0.993851408439547,
         "test_smape_macro_empresa": 1.0,
-        "test_theilu_macro_empresa": 0.9242343965070953
+        "test_theilu_macro_empresa": 1.0705781484236276
       },
       "Ensemble": {
         "cv_smape_macro_empresa": 0.9969257042197734,
         "test_smape_macro_empresa": 1.0,
-        "test_theilu_macro_empresa": 1.030379401532521
+        "test_theilu_macro_empresa": 1.0191661852035359
       }
     },
     "TARGET_DFC_MI_6.01_ITR_T2": {
       "Ridge": {
         "cv_smape_macro_empresa": 1.0,
         "test_smape_macro_empresa": 1.0,
-        "test_theilu_macro_empresa": 1.0747446947269657
+        "test_theilu_macro_empresa": 1.0747445373388915
       },
       "SVR": {
         "cv_smape_macro_empresa": 1.0,
@@ -1014,7 +1014,7 @@
       "RandomForest": {
         "cv_smape_macro_empresa": 1.0,
         "test_smape_macro_empresa": 1.0,
-        "test_theilu_macro_empresa": 0.6875667567434789
+        "test_theilu_macro_empresa": 0.6875667567434788
       },
       "GradientBoosting": {
         "cv_smape_macro_empresa": 1.0,
@@ -1024,14 +1024,14 @@
       "Ensemble": {
         "cv_smape_macro_empresa": 1.0,
         "test_smape_macro_empresa": 1.0,
-        "test_theilu_macro_empresa": 0.6365712996909265
+        "test_theilu_macro_empresa": 0.6365712996909263
       }
     },
     "TARGET_DFC_MI_6.01_ITR_T3": {
       "Ridge": {
         "cv_smape_macro_empresa": 1.0,
         "test_smape_macro_empresa": 1.0,
-        "test_theilu_macro_empresa": 1.710457533281541
+        "test_theilu_macro_empresa": 1.7104574805366974
       },
       "SVR": {
         "cv_smape_macro_empresa": 1.0,
@@ -1041,17 +1041,17 @@
       "RandomForest": {
         "cv_smape_macro_empresa": 1.0,
         "test_smape_macro_empresa": 1.0,
-        "test_theilu_macro_empresa": 1.240115464802666
+        "test_theilu_macro_empresa": 1.2401154648026633
       },
       "GradientBoosting": {
-        "cv_smape_macro_empresa": 0.9732819395344428,
+        "cv_smape_macro_empresa": 0.9743939872537041,
         "test_smape_macro_empresa": 1.0,
-        "test_theilu_macro_empresa": 1.0756169972138159
+        "test_theilu_macro_empresa": 1.0754944636656287
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.9866409697672214,
+        "cv_smape_macro_empresa": 0.9871969936268521,
         "test_smape_macro_empresa": 1.0,
-        "test_theilu_macro_empresa": 0.9488066282820804
+        "test_theilu_macro_empresa": 0.9487178884310342
       }
     },
     "TARGET_DFC_MI_6.01_DFP": {
@@ -1061,23 +1061,23 @@
         "test_theilu_macro_empresa": 2.0
       },
       "SVR": {
-        "cv_smape_macro_empresa": 0.9676174544785457,
+        "cv_smape_macro_empresa": 0.9676174544785439,
         "test_smape_macro_empresa": 1.0,
         "test_theilu_macro_empresa": 2.0
       },
       "RandomForest": {
-        "cv_smape_macro_empresa": 0.9578142133463894,
-        "test_smape_macro_empresa": 0.7721299246027975,
+        "cv_smape_macro_empresa": 0.9578142133463888,
+        "test_smape_macro_empresa": 0.7721299246027973,
         "test_theilu_macro_empresa": 2.0
       },
       "GradientBoosting": {
-        "cv_smape_macro_empresa": 0.7704478302298464,
+        "cv_smape_macro_empresa": 0.7830311360013903,
         "test_smape_macro_empresa": 0.6553114551402515,
         "test_theilu_macro_empresa": 2.0
       },
       "Ensemble": {
-        "cv_smape_macro_empresa": 0.864131021788118,
-        "test_smape_macro_empresa": 0.6023138119695819,
+        "cv_smape_macro_empresa": 0.8704226746738896,
+        "test_smape_macro_empresa": 0.6023138119695812,
         "test_theilu_macro_empresa": 2.0
       }
     }
