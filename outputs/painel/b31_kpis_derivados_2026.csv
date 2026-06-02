@@ -1,0 +1,24 @@
+cnpj,empresa,setor,ano_pred,margem_ebitda_pred,margem_liquida_pred,roe_pred,roa_pred,endividamento_pred,alavancagem_de_pred,liquidez_corrente_pred,giro_ativo_pred,fco_receita_pred,receita_pred_bi,lucro_pred_bi,ebitda_pred_bi,nota_metodologica
+33.042.730/0001-04,CSN Mineração,Commodities,2026,1.79,0.0,0.0,0.0,1.0,4.3392,1.786,0.4629,0.0188,10.296,0.0,18.43,KPIs derivados de predicoes ML - propagam erro das predicoes individuais
+33.611.500/0001-19,Gerdau,Commodities,2026,0.7343,0.0255,0.0872,0.0252,1.0,3.4612,2.6078,0.9882,0.0887,23.26,0.593,17.08,KPIs derivados de predicoes ML - propagam erro das predicoes individuais
+89.637.490/0001-45,Klabin,Commodities,2026,1.1281,0.0,0.0,0.0,1.0,4.1429,2.3835,0.6989,0.1889,15.851,0.0,17.88,KPIs derivados de predicoes ML - propagam erro das predicoes individuais
+16.404.287/0001-55,Suzano,Commodities,2026,2.3703,0.2006,0.3211,0.0913,1.0,3.5175,2.0101,0.4551,0.2304,11.075,2.222,26.251,KPIs derivados de predicoes ML - propagam erro das predicoes individuais
+33.592.510/0001-54,Vale,Commodities,2026,1.4978,0.3403,0.5507,0.091,1.0,6.0511,1.1138,0.2674,0.2134,20.575,7.003,30.818,KPIs derivados de predicoes ML - propagam erro das predicoes individuais
+02.429.144/0001-93,CPFL Energia,Energia,2026,1.9444,0.2386,0.3577,0.1254,1.0,2.853,1.9403,0.5255,0.1625,12.342,2.945,23.999,KPIs derivados de predicoes ML - propagam erro das predicoes individuais
+02.474.103/0001-19,Engie Brasil,Energia,2026,1.6916,0.2394,0.353,0.1205,1.0,2.9297,2.0308,0.5033,0.2111,9.995,2.392,16.907,KPIs derivados de predicoes ML - propagam erro das predicoes individuais
+03.220.438/0001-73,Equatorial Energia,Energia,2026,1.6126,0.1217,0.231,0.0713,1.0,3.2426,1.953,0.5856,0.0658,14.996,1.825,24.182,KPIs derivados de predicoes ML - propagam erro das predicoes individuais
+02.998.611/0001-04,ISA CTEEP,Energia,2026,2.0507,0.2663,0.3211,0.1137,1.0,2.8247,3.2743,0.4269,0.1319,7.889,2.101,16.178,KPIs derivados de predicoes ML - propagam erro das predicoes individuais
+07.859.971/0001-30,Taesa,Energia,2026,1.9755,0.2564,0.2438,0.081,1.0,3.0089,2.9277,0.316,0.3097,5.473,1.403,10.813,KPIs derivados de predicoes ML - propagam erro das predicoes individuais
+33.000.167/0001-01,Petrobras,Petróleo,2026,0.5185,0.1372,0.362,0.0274,1.0,13.215,1.1432,0.1997,0.0771,66.917,9.178,34.699,KPIs derivados de predicoes ML - propagam erro das predicoes individuais
+10.629.105/0001-68,Prio,Petróleo,2026,4.2647,0.6351,0.482,0.1619,1.0,2.9765,2.2026,0.255,0.4338,5.253,3.336,22.401,KPIs derivados de predicoes ML - propagam erro das predicoes individuais
+33.256.439/0001-39,Ultrapar,Petróleo,2026,0.6395,0.0875,0.37,0.1061,1.0,3.4865,2.4081,1.212,0.0017,26.759,2.343,17.112,KPIs derivados de predicoes ML - propagam erro das predicoes individuais
+34.274.233/0001-02,Vibra Energia,Petróleo,2026,0.3192,0.0445,0.3965,0.1104,1.0,3.5917,1.8941,2.4802,0.0009,57.347,2.553,18.303,KPIs derivados de predicoes ML - propagam erro das predicoes individuais
+82.901.000/0001-27,Intelbras,Tecnologia,2026,0.6275,0.1585,0.16,0.0747,1.0,2.1416,1.4166,0.4714,0.0308,4.877,0.773,3.061,KPIs derivados de predicoes ML - propagam erro das predicoes individuais
+81.243.735/0001-48,Positivo,Tecnologia,2026,0.3919,0.0008,0.0008,0.0004,1.0,2.1504,1.1864,0.4986,0.0102,4.197,0.003,1.645,KPIs derivados de predicoes ML - propagam erro das predicoes individuais
+53.113.791/0001-22,Totvs,Tecnologia,2026,0.9445,0.1234,0.1175,0.0582,1.0,2.0191,2.7439,0.4714,0.0735,5.813,0.718,5.49,KPIs derivados de predicoes ML - propagam erro das predicoes individuais
+84.429.695/0001-11,WEG,Tecnologia,2026,0.463,0.1035,0.1592,0.0258,1.0,6.1697,0.7531,0.2493,0.1937,16.496,1.708,7.638,KPIs derivados de predicoes ML - propagam erro das predicoes individuais
+61.079.117/0001-05,Alpargatas,Varejo,2026,1.0486,0.1698,0.1217,0.0613,1.0,1.986,4.387,0.3608,0.0956,4.019,0.683,4.215,KPIs derivados de predicoes ML - propagam erro das predicoes individuais
+16.590.234/0001-76,Arezzo,Varejo,2026,0.8505,0.1287,0.1325,0.0552,1.0,2.3991,3.0369,0.4293,0.0986,5.793,0.746,4.928,KPIs derivados de predicoes ML - propagam erro das predicoes individuais
+24.990.777/0001-09,Grupo Mateus,Varejo,2026,0.4564,0.0256,0.0477,0.0171,1.0,2.7888,2.3211,0.6662,0.1313,13.276,0.341,6.059,KPIs derivados de predicoes ML - propagam erro das predicoes individuais
+92.754.738/0001-62,Lojas Renner,Varejo,2026,0.7428,0.1622,0.1991,0.07,1.0,2.8447,2.1516,0.4316,0.0002,7.991,1.296,5.936,KPIs derivados de predicoes ML - propagam erro das predicoes individuais
+47.960.950/0001-21,Magazine Luiza,Varejo,2026,0.5168,0.0017,0.0027,0.001,1.0,2.8457,1.8405,0.5587,0.0992,11.892,0.02,6.146,KPIs derivados de predicoes ML - propagam erro das predicoes individuais

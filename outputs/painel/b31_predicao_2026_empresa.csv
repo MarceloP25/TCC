@@ -1,0 +1,208 @@
+cnpj,empresa,setor,ano_base,target,variavel,algoritmo,y_pred_2026_bi
+33.042.730/0001-04,CSN Mineração,Commodities,2026,TARGET_BPA_1.01_DFP,Ativo Circulante,GradientBoosting,8.9613
+33.042.730/0001-04,CSN Mineração,Commodities,2026,TARGET_BPA_1_DFP,Ativo Total,GradientBoosting,22.2416
+33.042.730/0001-04,CSN Mineração,Commodities,2026,TARGET_EBITDA_DFP,EBITDA,GradientBoosting,18.4301
+33.042.730/0001-04,CSN Mineração,Commodities,2026,TARGET_DFC_MI_6.01_DFP,FCO,GradientBoosting,0.1931
+33.042.730/0001-04,CSN Mineração,Commodities,2026,TARGET_DRE_3.11_DFP,Lucro Líquido,GradientBoosting,0.0
+33.042.730/0001-04,CSN Mineração,Commodities,2026,TARGET_BPP_2.01_DFP,Passivo Circulante,GradientBoosting,5.0174
+33.042.730/0001-04,CSN Mineração,Commodities,2026,TARGET_BPP_2_DFP,Passivo Total,GradientBoosting,22.2416
+33.042.730/0001-04,CSN Mineração,Commodities,2026,TARGET_BPP_2.03_DFP,Patrimônio Líquido,GradientBoosting,5.1257
+33.042.730/0001-04,CSN Mineração,Commodities,2026,TARGET_DRE_3.01_DFP,Receita Líquida,GradientBoosting,10.2962
+33.611.500/0001-19,Gerdau,Commodities,2026,TARGET_BPA_1.01_DFP,Ativo Circulante,GradientBoosting,9.6994
+33.611.500/0001-19,Gerdau,Commodities,2026,TARGET_BPA_1_DFP,Ativo Total,GradientBoosting,23.5379
+33.611.500/0001-19,Gerdau,Commodities,2026,TARGET_EBITDA_DFP,EBITDA,GradientBoosting,17.08
+33.611.500/0001-19,Gerdau,Commodities,2026,TARGET_DFC_MI_6.01_DFP,FCO,GradientBoosting,2.063
+33.611.500/0001-19,Gerdau,Commodities,2026,TARGET_DRE_3.11_DFP,Lucro Líquido,GradientBoosting,0.5929
+33.611.500/0001-19,Gerdau,Commodities,2026,TARGET_BPP_2.01_DFP,Passivo Circulante,GradientBoosting,3.7194
+33.611.500/0001-19,Gerdau,Commodities,2026,TARGET_BPP_2_DFP,Passivo Total,GradientBoosting,23.5379
+33.611.500/0001-19,Gerdau,Commodities,2026,TARGET_BPP_2.03_DFP,Patrimônio Líquido,GradientBoosting,6.8005
+33.611.500/0001-19,Gerdau,Commodities,2026,TARGET_DRE_3.01_DFP,Receita Líquida,GradientBoosting,23.26
+89.637.490/0001-45,Klabin,Commodities,2026,TARGET_BPA_1.01_DFP,Ativo Circulante,GradientBoosting,9.3311
+89.637.490/0001-45,Klabin,Commodities,2026,TARGET_BPA_1_DFP,Ativo Total,GradientBoosting,22.6791
+89.637.490/0001-45,Klabin,Commodities,2026,TARGET_EBITDA_DFP,EBITDA,GradientBoosting,17.8804
+89.637.490/0001-45,Klabin,Commodities,2026,TARGET_DFC_MI_6.01_DFP,FCO,GradientBoosting,2.9934
+89.637.490/0001-45,Klabin,Commodities,2026,TARGET_DRE_3.11_DFP,Lucro Líquido,GradientBoosting,0.0001
+89.637.490/0001-45,Klabin,Commodities,2026,TARGET_BPP_2.01_DFP,Passivo Circulante,GradientBoosting,3.9149
+89.637.490/0001-45,Klabin,Commodities,2026,TARGET_BPP_2_DFP,Passivo Total,GradientBoosting,22.6791
+89.637.490/0001-45,Klabin,Commodities,2026,TARGET_BPP_2.03_DFP,Patrimônio Líquido,GradientBoosting,5.4742
+89.637.490/0001-45,Klabin,Commodities,2026,TARGET_DRE_3.01_DFP,Receita Líquida,GradientBoosting,15.8505
+16.404.287/0001-55,Suzano,Commodities,2026,TARGET_BPA_1.01_DFP,Ativo Circulante,GradientBoosting,8.7039
+16.404.287/0001-55,Suzano,Commodities,2026,TARGET_BPA_1_DFP,Ativo Total,GradientBoosting,24.3352
+16.404.287/0001-55,Suzano,Commodities,2026,TARGET_EBITDA_DFP,EBITDA,GradientBoosting,26.2507
+16.404.287/0001-55,Suzano,Commodities,2026,TARGET_DFC_MI_6.01_DFP,FCO,GradientBoosting,2.5511
+16.404.287/0001-55,Suzano,Commodities,2026,TARGET_DRE_3.11_DFP,Lucro Líquido,GradientBoosting,2.2218
+16.404.287/0001-55,Suzano,Commodities,2026,TARGET_BPP_2.01_DFP,Passivo Circulante,GradientBoosting,4.33
+16.404.287/0001-55,Suzano,Commodities,2026,TARGET_BPP_2_DFP,Passivo Total,GradientBoosting,24.3352
+16.404.287/0001-55,Suzano,Commodities,2026,TARGET_BPP_2.03_DFP,Patrimônio Líquido,GradientBoosting,6.9183
+16.404.287/0001-55,Suzano,Commodities,2026,TARGET_DRE_3.01_DFP,Receita Líquida,GradientBoosting,11.0747
+33.592.510/0001-54,Vale,Commodities,2026,TARGET_BPA_1.01_DFP,Ativo Circulante,GradientBoosting,25.4341
+33.592.510/0001-54,Vale,Commodities,2026,TARGET_BPA_1_DFP,Ativo Total,GradientBoosting,76.9428
+33.592.510/0001-54,Vale,Commodities,2026,TARGET_EBITDA_DFP,EBITDA,GradientBoosting,30.8178
+33.592.510/0001-54,Vale,Commodities,2026,TARGET_DFC_MI_6.01_DFP,FCO,GradientBoosting,4.3902
+33.592.510/0001-54,Vale,Commodities,2026,TARGET_DRE_3.11_DFP,Lucro Líquido,GradientBoosting,7.0027
+33.592.510/0001-54,Vale,Commodities,2026,TARGET_BPP_2.01_DFP,Passivo Circulante,GradientBoosting,22.8357
+33.592.510/0001-54,Vale,Commodities,2026,TARGET_BPP_2_DFP,Passivo Total,GradientBoosting,76.9428
+33.592.510/0001-54,Vale,Commodities,2026,TARGET_BPP_2.03_DFP,Patrimônio Líquido,GradientBoosting,12.7156
+33.592.510/0001-54,Vale,Commodities,2026,TARGET_DRE_3.01_DFP,Receita Líquida,GradientBoosting,20.5754
+02.429.144/0001-93,CPFL Energia,Energia,2026,TARGET_BPA_1.01_DFP,Ativo Circulante,GradientBoosting,9.7187
+02.429.144/0001-93,CPFL Energia,Energia,2026,TARGET_BPA_1_DFP,Ativo Total,GradientBoosting,23.4884
+02.429.144/0001-93,CPFL Energia,Energia,2026,TARGET_EBITDA_DFP,EBITDA,GradientBoosting,23.9989
+02.429.144/0001-93,CPFL Energia,Energia,2026,TARGET_DFC_MI_6.01_DFP,FCO,GradientBoosting,2.0059
+02.429.144/0001-93,CPFL Energia,Energia,2026,TARGET_DRE_3.11_DFP,Lucro Líquido,GradientBoosting,2.9446
+02.429.144/0001-93,CPFL Energia,Energia,2026,TARGET_BPP_2.01_DFP,Passivo Circulante,GradientBoosting,5.0088
+02.429.144/0001-93,CPFL Energia,Energia,2026,TARGET_BPP_2_DFP,Passivo Total,GradientBoosting,23.4884
+02.429.144/0001-93,CPFL Energia,Energia,2026,TARGET_BPP_2.03_DFP,Patrimônio Líquido,GradientBoosting,8.2329
+02.429.144/0001-93,CPFL Energia,Energia,2026,TARGET_DRE_3.01_DFP,Receita Líquida,GradientBoosting,12.3423
+02.474.103/0001-19,Engie Brasil,Energia,2026,TARGET_BPA_1.01_DFP,Ativo Circulante,GradientBoosting,8.1675
+02.474.103/0001-19,Engie Brasil,Energia,2026,TARGET_BPA_1_DFP,Ativo Total,GradientBoosting,19.8573
+02.474.103/0001-19,Engie Brasil,Energia,2026,TARGET_EBITDA_DFP,EBITDA,GradientBoosting,16.9069
+02.474.103/0001-19,Engie Brasil,Energia,2026,TARGET_DFC_MI_6.01_DFP,FCO,GradientBoosting,2.1103
+02.474.103/0001-19,Engie Brasil,Energia,2026,TARGET_DRE_3.11_DFP,Lucro Líquido,GradientBoosting,2.3923
+02.474.103/0001-19,Engie Brasil,Energia,2026,TARGET_BPP_2.01_DFP,Passivo Circulante,GradientBoosting,4.0218
+02.474.103/0001-19,Engie Brasil,Energia,2026,TARGET_BPP_2_DFP,Passivo Total,GradientBoosting,19.8573
+02.474.103/0001-19,Engie Brasil,Energia,2026,TARGET_BPP_2.03_DFP,Patrimônio Líquido,GradientBoosting,6.7779
+02.474.103/0001-19,Engie Brasil,Energia,2026,TARGET_DRE_3.01_DFP,Receita Líquida,GradientBoosting,9.9949
+03.220.438/0001-73,Equatorial Energia,Energia,2026,TARGET_BPA_1.01_DFP,Ativo Circulante,GradientBoosting,10.4468
+03.220.438/0001-73,Equatorial Energia,Energia,2026,TARGET_BPA_1_DFP,Ativo Total,GradientBoosting,25.6064
+03.220.438/0001-73,Equatorial Energia,Energia,2026,TARGET_EBITDA_DFP,EBITDA,GradientBoosting,24.1821
+03.220.438/0001-73,Equatorial Energia,Energia,2026,TARGET_DFC_MI_6.01_DFP,FCO,GradientBoosting,0.9861
+03.220.438/0001-73,Equatorial Energia,Energia,2026,TARGET_DRE_3.11_DFP,Lucro Líquido,GradientBoosting,1.8245
+03.220.438/0001-73,Equatorial Energia,Energia,2026,TARGET_BPP_2.01_DFP,Passivo Circulante,GradientBoosting,5.3491
+03.220.438/0001-73,Equatorial Energia,Energia,2026,TARGET_BPP_2_DFP,Passivo Total,GradientBoosting,25.6064
+03.220.438/0001-73,Equatorial Energia,Energia,2026,TARGET_BPP_2.03_DFP,Patrimônio Líquido,GradientBoosting,7.8969
+03.220.438/0001-73,Equatorial Energia,Energia,2026,TARGET_DRE_3.01_DFP,Receita Líquida,GradientBoosting,14.9958
+02.998.611/0001-04,ISA CTEEP,Energia,2026,TARGET_BPA_1.01_DFP,Ativo Circulante,GradientBoosting,7.0859
+02.998.611/0001-04,ISA CTEEP,Energia,2026,TARGET_BPA_1_DFP,Ativo Total,GradientBoosting,18.4807
+02.998.611/0001-04,ISA CTEEP,Energia,2026,TARGET_EBITDA_DFP,EBITDA,GradientBoosting,16.1781
+02.998.611/0001-04,ISA CTEEP,Energia,2026,TARGET_DFC_MI_6.01_DFP,FCO,GradientBoosting,1.0406
+02.998.611/0001-04,ISA CTEEP,Energia,2026,TARGET_DRE_3.11_DFP,Lucro Líquido,GradientBoosting,2.1011
+02.998.611/0001-04,ISA CTEEP,Energia,2026,TARGET_BPP_2.01_DFP,Passivo Circulante,GradientBoosting,2.1641
+02.998.611/0001-04,ISA CTEEP,Energia,2026,TARGET_BPP_2_DFP,Passivo Total,GradientBoosting,18.4807
+02.998.611/0001-04,ISA CTEEP,Energia,2026,TARGET_BPP_2.03_DFP,Patrimônio Líquido,GradientBoosting,6.5426
+02.998.611/0001-04,ISA CTEEP,Energia,2026,TARGET_DRE_3.01_DFP,Receita Líquida,GradientBoosting,7.8892
+07.859.971/0001-30,Taesa,Energia,2026,TARGET_BPA_1.01_DFP,Ativo Circulante,GradientBoosting,6.1118
+07.859.971/0001-30,Taesa,Energia,2026,TARGET_BPA_1_DFP,Ativo Total,GradientBoosting,17.3196
+07.859.971/0001-30,Taesa,Energia,2026,TARGET_EBITDA_DFP,EBITDA,GradientBoosting,10.8127
+07.859.971/0001-30,Taesa,Energia,2026,TARGET_DFC_MI_6.01_DFP,FCO,GradientBoosting,1.6949
+07.859.971/0001-30,Taesa,Energia,2026,TARGET_DRE_3.11_DFP,Lucro Líquido,GradientBoosting,1.4034
+07.859.971/0001-30,Taesa,Energia,2026,TARGET_BPP_2.01_DFP,Passivo Circulante,GradientBoosting,2.0876
+07.859.971/0001-30,Taesa,Energia,2026,TARGET_BPP_2_DFP,Passivo Total,GradientBoosting,17.3196
+07.859.971/0001-30,Taesa,Energia,2026,TARGET_BPP_2.03_DFP,Patrimônio Líquido,GradientBoosting,5.7561
+07.859.971/0001-30,Taesa,Energia,2026,TARGET_DRE_3.01_DFP,Receita Líquida,GradientBoosting,5.4735
+33.000.167/0001-01,Petrobras,Petróleo,2026,TARGET_BPA_1.01_DFP,Ativo Circulante,GradientBoosting,52.7567
+33.000.167/0001-01,Petrobras,Petróleo,2026,TARGET_BPA_1_DFP,Ativo Total,GradientBoosting,335.0098
+33.000.167/0001-01,Petrobras,Petróleo,2026,TARGET_EBITDA_DFP,EBITDA,GradientBoosting,34.6993
+33.000.167/0001-01,Petrobras,Petróleo,2026,TARGET_DFC_MI_6.01_DFP,FCO,GradientBoosting,5.162
+33.000.167/0001-01,Petrobras,Petróleo,2026,TARGET_DRE_3.11_DFP,Lucro Líquido,GradientBoosting,9.1781
+33.000.167/0001-01,Petrobras,Petróleo,2026,TARGET_BPP_2.01_DFP,Passivo Circulante,GradientBoosting,46.1473
+33.000.167/0001-01,Petrobras,Petróleo,2026,TARGET_BPP_2_DFP,Passivo Total,GradientBoosting,335.0098
+33.000.167/0001-01,Petrobras,Petróleo,2026,TARGET_BPP_2.03_DFP,Patrimônio Líquido,GradientBoosting,25.3507
+33.000.167/0001-01,Petrobras,Petróleo,2026,TARGET_DRE_3.01_DFP,Receita Líquida,GradientBoosting,66.9173
+10.629.105/0001-68,Prio,Petróleo,2026,TARGET_BPA_1.01_DFP,Ativo Circulante,GradientBoosting,5.6027
+10.629.105/0001-68,Prio,Petróleo,2026,TARGET_BPA_1_DFP,Ativo Total,GradientBoosting,20.6019
+10.629.105/0001-68,Prio,Petróleo,2026,TARGET_EBITDA_DFP,EBITDA,GradientBoosting,22.4011
+10.629.105/0001-68,Prio,Petróleo,2026,TARGET_DFC_MI_6.01_DFP,FCO,GradientBoosting,2.2787
+10.629.105/0001-68,Prio,Petróleo,2026,TARGET_DRE_3.11_DFP,Lucro Líquido,GradientBoosting,3.3359
+10.629.105/0001-68,Prio,Petróleo,2026,TARGET_BPP_2.01_DFP,Passivo Circulante,GradientBoosting,2.5437
+10.629.105/0001-68,Prio,Petróleo,2026,TARGET_BPP_2_DFP,Passivo Total,GradientBoosting,20.6019
+10.629.105/0001-68,Prio,Petróleo,2026,TARGET_BPP_2.03_DFP,Patrimônio Líquido,GradientBoosting,6.9216
+10.629.105/0001-68,Prio,Petróleo,2026,TARGET_DRE_3.01_DFP,Receita Líquida,GradientBoosting,5.2527
+33.256.439/0001-39,Ultrapar,Petróleo,2026,TARGET_BPA_1.01_DFP,Ativo Circulante,GradientBoosting,9.0775
+33.256.439/0001-39,Ultrapar,Petróleo,2026,TARGET_BPA_1_DFP,Ativo Total,GradientBoosting,22.0776
+33.256.439/0001-39,Ultrapar,Petróleo,2026,TARGET_EBITDA_DFP,EBITDA,GradientBoosting,17.1121
+33.256.439/0001-39,Ultrapar,Petróleo,2026,TARGET_DFC_MI_6.01_DFP,FCO,GradientBoosting,0.0445
+33.256.439/0001-39,Ultrapar,Petróleo,2026,TARGET_DRE_3.11_DFP,Lucro Líquido,GradientBoosting,2.3427
+33.256.439/0001-39,Ultrapar,Petróleo,2026,TARGET_BPP_2.01_DFP,Passivo Circulante,GradientBoosting,3.7696
+33.256.439/0001-39,Ultrapar,Petróleo,2026,TARGET_BPP_2_DFP,Passivo Total,GradientBoosting,22.0776
+33.256.439/0001-39,Ultrapar,Petróleo,2026,TARGET_BPP_2.03_DFP,Patrimônio Líquido,GradientBoosting,6.3324
+33.256.439/0001-39,Ultrapar,Petróleo,2026,TARGET_DRE_3.01_DFP,Receita Líquida,GradientBoosting,26.7587
+34.274.233/0001-02,Vibra Energia,Petróleo,2026,TARGET_BPA_1.01_DFP,Ativo Circulante,GradientBoosting,9.0605
+34.274.233/0001-02,Vibra Energia,Petróleo,2026,TARGET_BPA_1_DFP,Ativo Total,GradientBoosting,23.1223
+34.274.233/0001-02,Vibra Energia,Petróleo,2026,TARGET_EBITDA_DFP,EBITDA,GradientBoosting,18.3032
+34.274.233/0001-02,Vibra Energia,Petróleo,2026,TARGET_DFC_MI_6.01_DFP,FCO,GradientBoosting,0.052
+34.274.233/0001-02,Vibra Energia,Petróleo,2026,TARGET_DRE_3.11_DFP,Lucro Líquido,GradientBoosting,2.5527
+34.274.233/0001-02,Vibra Energia,Petróleo,2026,TARGET_BPP_2.01_DFP,Passivo Circulante,GradientBoosting,4.7835
+34.274.233/0001-02,Vibra Energia,Petróleo,2026,TARGET_BPP_2_DFP,Passivo Total,GradientBoosting,23.1223
+34.274.233/0001-02,Vibra Energia,Petróleo,2026,TARGET_BPP_2.03_DFP,Patrimônio Líquido,GradientBoosting,6.4377
+34.274.233/0001-02,Vibra Energia,Petróleo,2026,TARGET_DRE_3.01_DFP,Receita Líquida,GradientBoosting,57.3471
+82.901.000/0001-27,Intelbras,Tecnologia,2026,TARGET_BPA_1.01_DFP,Ativo Circulante,GradientBoosting,2.7451
+82.901.000/0001-27,Intelbras,Tecnologia,2026,TARGET_BPA_1_DFP,Ativo Total,GradientBoosting,10.3449
+82.901.000/0001-27,Intelbras,Tecnologia,2026,TARGET_EBITDA_DFP,EBITDA,GradientBoosting,3.0605
+82.901.000/0001-27,Intelbras,Tecnologia,2026,TARGET_DFC_MI_6.01_DFP,FCO,GradientBoosting,0.1502
+82.901.000/0001-27,Intelbras,Tecnologia,2026,TARGET_DRE_3.11_DFP,Lucro Líquido,GradientBoosting,0.7728
+82.901.000/0001-27,Intelbras,Tecnologia,2026,TARGET_BPP_2.01_DFP,Passivo Circulante,GradientBoosting,1.9378
+82.901.000/0001-27,Intelbras,Tecnologia,2026,TARGET_BPP_2_DFP,Passivo Total,GradientBoosting,10.3449
+82.901.000/0001-27,Intelbras,Tecnologia,2026,TARGET_BPP_2.03_DFP,Patrimônio Líquido,GradientBoosting,4.8305
+82.901.000/0001-27,Intelbras,Tecnologia,2026,TARGET_DRE_3.01_DFP,Receita Líquida,GradientBoosting,4.8771
+81.243.735/0001-48,Positivo,Tecnologia,2026,TARGET_BPA_1.01_DFP,Ativo Circulante,GradientBoosting,1.9886
+81.243.735/0001-48,Positivo,Tecnologia,2026,TARGET_BPA_1_DFP,Ativo Total,GradientBoosting,8.4182
+81.243.735/0001-48,Positivo,Tecnologia,2026,TARGET_EBITDA_DFP,EBITDA,GradientBoosting,1.6451
+81.243.735/0001-48,Positivo,Tecnologia,2026,TARGET_DFC_MI_6.01_DFP,FCO,GradientBoosting,0.0428
+81.243.735/0001-48,Positivo,Tecnologia,2026,TARGET_DRE_3.11_DFP,Lucro Líquido,GradientBoosting,0.0032
+81.243.735/0001-48,Positivo,Tecnologia,2026,TARGET_BPP_2.01_DFP,Passivo Circulante,GradientBoosting,1.6762
+81.243.735/0001-48,Positivo,Tecnologia,2026,TARGET_BPP_2_DFP,Passivo Total,GradientBoosting,8.4182
+81.243.735/0001-48,Positivo,Tecnologia,2026,TARGET_BPP_2.03_DFP,Patrimônio Líquido,GradientBoosting,3.9147
+81.243.735/0001-48,Positivo,Tecnologia,2026,TARGET_DRE_3.01_DFP,Receita Líquida,GradientBoosting,4.1975
+53.113.791/0001-22,Totvs,Tecnologia,2026,TARGET_BPA_1.01_DFP,Ativo Circulante,GradientBoosting,7.4145
+53.113.791/0001-22,Totvs,Tecnologia,2026,TARGET_BPA_1_DFP,Ativo Total,GradientBoosting,12.3293
+53.113.791/0001-22,Totvs,Tecnologia,2026,TARGET_EBITDA_DFP,EBITDA,GradientBoosting,5.4898
+53.113.791/0001-22,Totvs,Tecnologia,2026,TARGET_DFC_MI_6.01_DFP,FCO,GradientBoosting,0.4274
+53.113.791/0001-22,Totvs,Tecnologia,2026,TARGET_DRE_3.11_DFP,Lucro Líquido,GradientBoosting,0.7175
+53.113.791/0001-22,Totvs,Tecnologia,2026,TARGET_BPP_2.01_DFP,Passivo Circulante,GradientBoosting,2.7022
+53.113.791/0001-22,Totvs,Tecnologia,2026,TARGET_BPP_2_DFP,Passivo Total,GradientBoosting,12.3293
+53.113.791/0001-22,Totvs,Tecnologia,2026,TARGET_BPP_2.03_DFP,Patrimônio Líquido,GradientBoosting,6.1063
+53.113.791/0001-22,Totvs,Tecnologia,2026,TARGET_DRE_3.01_DFP,Receita Líquida,GradientBoosting,5.8126
+84.429.695/0001-11,WEG,Tecnologia,2026,TARGET_BPA_1.01_DFP,Ativo Circulante,GradientBoosting,11.6252
+84.429.695/0001-11,WEG,Tecnologia,2026,TARGET_BPA_1_DFP,Ativo Total,GradientBoosting,66.1778
+84.429.695/0001-11,WEG,Tecnologia,2026,TARGET_EBITDA_DFP,EBITDA,GradientBoosting,7.6383
+84.429.695/0001-11,WEG,Tecnologia,2026,TARGET_DFC_MI_6.01_DFP,FCO,GradientBoosting,3.196
+84.429.695/0001-11,WEG,Tecnologia,2026,TARGET_DRE_3.11_DFP,Lucro Líquido,GradientBoosting,1.7078
+84.429.695/0001-11,WEG,Tecnologia,2026,TARGET_BPP_2.01_DFP,Passivo Circulante,GradientBoosting,15.4359
+84.429.695/0001-11,WEG,Tecnologia,2026,TARGET_BPP_2_DFP,Passivo Total,GradientBoosting,66.1778
+84.429.695/0001-11,WEG,Tecnologia,2026,TARGET_BPP_2.03_DFP,Patrimônio Líquido,GradientBoosting,10.7262
+84.429.695/0001-11,WEG,Tecnologia,2026,TARGET_DRE_3.01_DFP,Receita Líquida,GradientBoosting,16.4958
+61.079.117/0001-05,Alpargatas,Varejo,2026,TARGET_BPA_1.01_DFP,Ativo Circulante,GradientBoosting,5.9905
+61.079.117/0001-05,Alpargatas,Varejo,2026,TARGET_BPA_1_DFP,Ativo Total,GradientBoosting,11.1397
+61.079.117/0001-05,Alpargatas,Varejo,2026,TARGET_EBITDA_DFP,EBITDA,GradientBoosting,4.2147
+61.079.117/0001-05,Alpargatas,Varejo,2026,TARGET_DFC_MI_6.01_DFP,FCO,GradientBoosting,0.3843
+61.079.117/0001-05,Alpargatas,Varejo,2026,TARGET_DRE_3.11_DFP,Lucro Líquido,GradientBoosting,0.6827
+61.079.117/0001-05,Alpargatas,Varejo,2026,TARGET_BPP_2.01_DFP,Passivo Circulante,GradientBoosting,1.3655
+61.079.117/0001-05,Alpargatas,Varejo,2026,TARGET_BPP_2_DFP,Passivo Total,GradientBoosting,11.1397
+61.079.117/0001-05,Alpargatas,Varejo,2026,TARGET_BPP_2.03_DFP,Patrimônio Líquido,GradientBoosting,5.609
+61.079.117/0001-05,Alpargatas,Varejo,2026,TARGET_DRE_3.01_DFP,Receita Líquida,GradientBoosting,4.0195
+16.590.234/0001-76,Arezzo,Varejo,2026,TARGET_BPA_1.01_DFP,Ativo Circulante,GradientBoosting,6.3387
+16.590.234/0001-76,Arezzo,Varejo,2026,TARGET_BPA_1_DFP,Ativo Total,GradientBoosting,13.495
+16.590.234/0001-76,Arezzo,Varejo,2026,TARGET_EBITDA_DFP,EBITDA,GradientBoosting,4.9275
+16.590.234/0001-76,Arezzo,Varejo,2026,TARGET_DFC_MI_6.01_DFP,FCO,GradientBoosting,0.5715
+16.590.234/0001-76,Arezzo,Varejo,2026,TARGET_DRE_3.11_DFP,Lucro Líquido,GradientBoosting,0.7455
+16.590.234/0001-76,Arezzo,Varejo,2026,TARGET_BPP_2.01_DFP,Passivo Circulante,GradientBoosting,2.0872
+16.590.234/0001-76,Arezzo,Varejo,2026,TARGET_BPP_2_DFP,Passivo Total,GradientBoosting,13.495
+16.590.234/0001-76,Arezzo,Varejo,2026,TARGET_BPP_2.03_DFP,Patrimônio Líquido,GradientBoosting,5.6251
+16.590.234/0001-76,Arezzo,Varejo,2026,TARGET_DRE_3.01_DFP,Receita Líquida,GradientBoosting,5.7935
+24.990.777/0001-09,Grupo Mateus,Varejo,2026,TARGET_BPA_1.01_DFP,Ativo Circulante,GradientBoosting,9.0209
+24.990.777/0001-09,Grupo Mateus,Varejo,2026,TARGET_BPA_1_DFP,Ativo Total,GradientBoosting,19.9267
+24.990.777/0001-09,Grupo Mateus,Varejo,2026,TARGET_EBITDA_DFP,EBITDA,GradientBoosting,6.059
+24.990.777/0001-09,Grupo Mateus,Varejo,2026,TARGET_DFC_MI_6.01_DFP,FCO,GradientBoosting,1.7434
+24.990.777/0001-09,Grupo Mateus,Varejo,2026,TARGET_DRE_3.11_DFP,Lucro Líquido,GradientBoosting,0.3405
+24.990.777/0001-09,Grupo Mateus,Varejo,2026,TARGET_BPP_2.01_DFP,Passivo Circulante,GradientBoosting,3.8865
+24.990.777/0001-09,Grupo Mateus,Varejo,2026,TARGET_BPP_2_DFP,Passivo Total,GradientBoosting,19.9267
+24.990.777/0001-09,Grupo Mateus,Varejo,2026,TARGET_BPP_2.03_DFP,Patrimônio Líquido,GradientBoosting,7.1453
+24.990.777/0001-09,Grupo Mateus,Varejo,2026,TARGET_DRE_3.01_DFP,Receita Líquida,GradientBoosting,13.2756
+92.754.738/0001-62,Lojas Renner,Varejo,2026,TARGET_BPA_1.01_DFP,Ativo Circulante,GradientBoosting,7.3881
+92.754.738/0001-62,Lojas Renner,Varejo,2026,TARGET_BPA_1_DFP,Ativo Total,GradientBoosting,18.5149
+92.754.738/0001-62,Lojas Renner,Varejo,2026,TARGET_EBITDA_DFP,EBITDA,GradientBoosting,5.9355
+92.754.738/0001-62,Lojas Renner,Varejo,2026,TARGET_DFC_MI_6.01_DFP,FCO,GradientBoosting,0.0019
+92.754.738/0001-62,Lojas Renner,Varejo,2026,TARGET_DRE_3.11_DFP,Lucro Líquido,GradientBoosting,1.2961
+92.754.738/0001-62,Lojas Renner,Varejo,2026,TARGET_BPP_2.01_DFP,Passivo Circulante,GradientBoosting,3.4338
+92.754.738/0001-62,Lojas Renner,Varejo,2026,TARGET_BPP_2_DFP,Passivo Total,GradientBoosting,18.5149
+92.754.738/0001-62,Lojas Renner,Varejo,2026,TARGET_BPP_2.03_DFP,Patrimônio Líquido,GradientBoosting,6.5085
+92.754.738/0001-62,Lojas Renner,Varejo,2026,TARGET_DRE_3.01_DFP,Receita Líquida,GradientBoosting,7.991
+47.960.950/0001-21,Magazine Luiza,Varejo,2026,TARGET_BPA_1.01_DFP,Ativo Circulante,GradientBoosting,9.2592
+47.960.950/0001-21,Magazine Luiza,Varejo,2026,TARGET_BPA_1_DFP,Ativo Total,GradientBoosting,21.2848
+47.960.950/0001-21,Magazine Luiza,Varejo,2026,TARGET_EBITDA_DFP,EBITDA,GradientBoosting,6.1456
+47.960.950/0001-21,Magazine Luiza,Varejo,2026,TARGET_DFC_MI_6.01_DFP,FCO,GradientBoosting,1.1792
+47.960.950/0001-21,Magazine Luiza,Varejo,2026,TARGET_DRE_3.11_DFP,Lucro Líquido,GradientBoosting,0.0204
+47.960.950/0001-21,Magazine Luiza,Varejo,2026,TARGET_BPP_2.01_DFP,Passivo Circulante,GradientBoosting,5.0307
+47.960.950/0001-21,Magazine Luiza,Varejo,2026,TARGET_BPP_2_DFP,Passivo Total,GradientBoosting,21.2848
+47.960.950/0001-21,Magazine Luiza,Varejo,2026,TARGET_BPP_2.03_DFP,Patrimônio Líquido,GradientBoosting,7.4797
+47.960.950/0001-21,Magazine Luiza,Varejo,2026,TARGET_DRE_3.01_DFP,Receita Líquida,GradientBoosting,11.8917

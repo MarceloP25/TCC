@@ -1,0 +1,24 @@
+empresa,setor,ano_pred,z_pp_pred,zona_pred,X1_CG_AT,X2_PL_AT,X3_EBIT_AT,X4_PL_PT,componentes_ok
+CSN Mineração,Commodities,2026,6.8896,Segura,0.1773,0.2305,0.7043,0.2305,4
+Gerdau,Commodities,2026,7.0567,Segura,0.2541,0.2889,0.6168,0.2889,4
+Klabin,Commodities,2026,7.1104,Segura,0.2388,0.2414,0.6701,0.2414,4
+Suzano,Commodities,2026,8.566,Segura,0.1797,0.2843,0.9169,0.2843,4
+Vale,Commodities,2026,3.2216,Segura,0.0338,0.1653,0.3404,0.1653,4
+CPFL Energia,Energia,2026,8.6623,Segura,0.2005,0.3505,0.8685,0.3505,4
+Engie Brasil,Energia,2026,7.704,Segura,0.2088,0.3413,0.7237,0.3413,4
+Equatorial Energia,Energia,2026,8.0294,Segura,0.1991,0.3084,0.8027,0.3084,4
+ISA CTEEP,Energia,2026,8.2732,Segura,0.2663,0.354,0.7441,0.354,4
+Taesa,Energia,2026,6.5226,Segura,0.2323,0.3323,0.5307,0.3323,4
+Petrobras,Petróleo,2026,1.0472,Insolvencia,0.0197,0.0757,0.088,0.0757,4
+Prio,Petróleo,2026,8.6329,Segura,0.1485,0.336,0.9242,0.336,4
+Ultrapar,Petróleo,2026,7.2407,Segura,0.2404,0.2868,0.6588,0.2868,4
+Vibra Energia,Petróleo,2026,6.9349,Segura,0.185,0.2784,0.6728,0.2784,4
+Intelbras,Tecnologia,2026,4.2143,Segura,0.078,0.4669,0.2515,0.4669,4
+Positivo,Tecnologia,2026,3.364,Segura,0.0371,0.465,0.1661,0.465,4
+Totvs,Tecnologia,2026,7.1852,Segura,0.3822,0.4953,0.3785,0.4953,4
+WEG,Tecnologia,2026,0.9801,Insolvencia,-0.0576,0.1621,0.0981,0.1621,4
+Alpargatas,Varejo,2026,7.0549,Segura,0.4152,0.5035,0.3216,0.5035,4
+Arezzo,Varejo,2026,5.9489,Segura,0.315,0.4168,0.3104,0.4168,4
+Grupo Mateus,Varejo,2026,4.9726,Segura,0.2577,0.3586,0.2585,0.3586,4
+Lojas Renner,Varejo,2026,4.7473,Segura,0.2136,0.3515,0.2725,0.3515,4
+Magazine Luiza,Varejo,2026,4.467,Segura,0.1987,0.3514,0.2454,0.3514,4
